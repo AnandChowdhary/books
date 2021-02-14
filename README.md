@@ -9,8 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (5)
+### ⌛ Currently reading (7)
 
+[![Book cover of 21 Lessons for the 21st Century](http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/15 "21 Lessons for the 21st Century by Yuval Noah Harari")
+[![Book cover of Inglorious Empire](http://books.google.com/books/content?id=ZWwwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/14 "Inglorious Empire by Shashi Tharoor")
 [![Book cover of Rich Dad, Poor Dad](http://books.google.com/books/content?id=Cx6aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/13 "Rich Dad, Poor Dad by Robert T. Kiyosaki")
 [![Book cover of The Innovators](http://books.google.com/books/content?id=aFapBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/12 "The Innovators by Walter Isaacson")
 [![Book cover of Outliers](http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/11 "Outliers by Malcolm Gladwell")
