@@ -9,9 +9,12 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (10)
+### ⌛ Currently reading (13)
 
+[![Book cover of Sam Walton](http://books.google.com/books/content?id=ggN9Kp8UVfwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/22 "Sam Walton by Sam Walton")
+[![Book cover of Think and Grow Rich](http://books.google.com/books/content?id=rYJaPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/21 "Think and Grow Rich by Arthur R. Pell, Napoleon Hill")
 [![Book cover of The Design of Everyday Things](http://books.google.com/books/content?id=heCtnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/20 "The Design of Everyday Things by Donald A. Norman")
+[![Book cover of How To Win Friends and Influence People](http://books.google.com/books/content?id=1rW-QpIAs8UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/19 "How To Win Friends and Influence People by Dale Carnegie")
 [![Book cover of "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character](http://books.google.com/books/content?id=_gA_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/17 ""Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard P. Feynman")
 [![Book cover of 1984](http://books.google.com/books/content?id=yxv1LK5gyV4C&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/16 "1984 by George Orwell")
 [![Book cover of 21 Lessons for the 21st Century](http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/15 "21 Lessons for the 21st Century by Yuval Noah Harari")

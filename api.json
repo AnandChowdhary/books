@@ -1,5 +1,63 @@
 [
   {
+    "title": "Sam Walton",
+    "authors": [
+      "Sam Walton"
+    ],
+    "publisher": "Bantam",
+    "publishedDate": "2012-09-12",
+    "description": "Meet a genuine American folk hero cut from the homespun cloth of America's heartland: Sam Walton, who parlayed a single dime store in a hardscrabble cotton town into Wal-Mart, the largest retailer in the world. The undisputed merchant king of the late twentieth century, Sam never lost the common touch. Here, finally, inimitable words. Genuinely modest, but always sure if his ambitions and achievements. Sam shares his thinking in a candid, straight-from-the-shoulder style. In a story rich with anecdotes and the \"rules of the road\" of both Main Street and Wall Street, Sam Walton chronicles the inspiration, heart, and optimism that propelled him to lasso the American Dream.",
+    "image": "http://books.google.com/books/content?id=ggN9Kp8UVfwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 6,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 368,
+    "isbn10": "0307763692",
+    "isbn13": "9780307763693",
+    "googleBooks": {
+      "id": "ggN9Kp8UVfwC",
+      "preview": "http://books.google.com/books?id=ggN9Kp8UVfwC&printsec=frontcover&dq=intitle:Sam+Walton:+Made+In+America+by+Sam+Walton&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=ggN9Kp8UVfwC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=ggN9Kp8UVfwC"
+    },
+    "issueNumber": 22,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:34:05.000Z"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "authors": [
+      "Arthur R. Pell",
+      "Napoleon Hill"
+    ],
+    "publishedDate": "2005",
+    "description": "This all-time classic has sold more copies around the world and been responsible for the creation of more millionaires, than any other book in history. It's the result of 25 years of extensive research into the secret of 504 of the world's wealthiest people. Make no mistake; there is a secret to great wealth! The secret is so simple anyone can use it to become fabulously wealthy and successful in their chosen field. Are you ready to receive it?",
+    "image": "http://books.google.com/books/content?id=rYJaPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 28,
+    "categories": [
+      "Conduct of life"
+    ],
+    "pageCount": 355,
+    "isbn10": "0975601466",
+    "isbn13": "9780975601464",
+    "googleBooks": {
+      "id": "rYJaPwAACAAJ",
+      "preview": "http://books.google.com/books?id=rYJaPwAACAAJ&dq=intitle:Think+and+Grow+Rich+by+Napoleon+Hill&hl=&cd=6&source=gbs_api",
+      "info": "http://books.google.com/books?id=rYJaPwAACAAJ&dq=intitle:Think+and+Grow+Rich+by+Napoleon+Hill&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Think_and_Grow_Rich.html?hl=&id=rYJaPwAACAAJ"
+    },
+    "issueNumber": 21,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:33:57.000Z"
+  },
+  {
     "title": "The Design of Everyday Things",
     "authors": [
       "Donald A. Norman"
@@ -26,6 +84,35 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2021-02-14T16:33:46.000Z"
+  },
+  {
+    "title": "How To Win Friends and Influence People",
+    "authors": [
+      "Dale Carnegie"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2010-08-24",
+    "description": "You can go after the job you want—and get it! You can take the job you have—and improve it! You can take any situation—and make it work for you! Dale Carnegie’s rock-solid, time-tested advice has carried countless people up the ladder of success in their business and personal lives. One of the most groundbreaking and timeless bestsellers of all time, How to Win Friends & Influence People will teach you: -Six ways to make people like you -Twelve ways to win people to your way of thinking -Nine ways to change people without arousing resentment And much more! Achieve your maximum potential—a must-read for the twenty-first century with more than 15 million copies sold!",
+    "image": "http://books.google.com/books/content?id=1rW-QpIAs8UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 3902,
+    "categories": [
+      "Self-Help"
+    ],
+    "pageCount": 320,
+    "isbn10": "145162171X",
+    "isbn13": "9781451621716",
+    "googleBooks": {
+      "id": "1rW-QpIAs8UC",
+      "preview": "http://books.google.com/books?id=1rW-QpIAs8UC&printsec=frontcover&dq=intitle:How+to+Win+Friends+and+Influence+People+by+Dale+Carnegie&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=1rW-QpIAs8UC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=1rW-QpIAs8UC"
+    },
+    "issueNumber": 19,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:33:38.000Z"
   },
   {
     "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
