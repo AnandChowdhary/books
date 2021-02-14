@@ -1,5 +1,63 @@
 [
   {
+    "title": "Homo Deus",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2017-02-21",
+    "description": "Official U.S. edition with full color illustrations throughout. NEW YORK TIMES BESTSELLER Yuval Noah Harari, author of the critically-acclaimed New York Times bestseller and international phenomenon Sapiens, returns with an equally original, compelling, and provocative book, turning his focus toward humanity’s future, and our quest to upgrade humans into gods. Over the past century humankind has managed to do the impossible and rein in famine, plague, and war. This may seem hard to accept, but, as Harari explains in his trademark style—thorough, yet riveting—famine, plague and war have been transformed from incomprehensible and uncontrollable forces of nature into manageable challenges. For the first time ever, more people die from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals put together. The average American is a thousand times more likely to die from binging at McDonalds than from being blown up by Al Qaeda. What then will replace famine, plague, and war at the top of the human agenda? As the self-made gods of planet earth, what destinies will we set ourselves, and which quests will we undertake? Homo Deus explores the projects, dreams and nightmares that will shape the twenty-first century—from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers? This is the next stage of evolution. This is Homo Deus. With the same insight and clarity that made Sapiens an international hit and a New York Times bestseller, Harari maps out our future.",
+    "image": "http://books.google.com/books/content?id=H2t_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 3,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 464,
+    "isbn10": "0062464353",
+    "isbn13": "9780062464354",
+    "googleBooks": {
+      "id": "H2t_CwAAQBAJ",
+      "preview": "http://books.google.com/books?id=H2t_CwAAQBAJ&printsec=frontcover&dq=intitle:Homo+Deus+by+Yuval+Noah+Harari&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=H2t_CwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=H2t_CwAAQBAJ"
+    },
+    "issueNumber": 32,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:38:46.000Z"
+  },
+  {
+    "title": "The Hard Thing About Hard Things",
+    "authors": [
+      "Ben Horowitz"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2014-03-04",
+    "description": "Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, offers essential advice on building and running a startup—practical wisdom for managing the toughest problems business school doesn’t cover, based on his popular ben’s blog. While many people talk about how great it is to start a business, very few are honest about how difficult it is to run one. Ben Horowitz analyzes the problems that confront leaders every day, sharing the insights he’s gained developing, managing, selling, buying, investing in, and supervising technology companies. A lifelong rap fanatic, he amplifies business lessons with lyrics from his favorite songs, telling it straight about everything from firing friends to poaching competitors, cultivating and sustaining a CEO mentality to knowing the right time to cash in. Filled with his trademark humor and straight talk, The Hard Thing About Hard Things is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures, drawing from Horowitz's personal and often humbling experiences.",
+    "image": "http://books.google.com/books/content?id=620pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 8,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 304,
+    "isbn10": "0062273213",
+    "isbn13": "9780062273215",
+    "googleBooks": {
+      "id": "620pAgAAQBAJ",
+      "preview": "http://books.google.com/books?id=620pAgAAQBAJ&printsec=frontcover&dq=intitle:The+Hard+Thing+About+Hard+Things+by+Ben+Horowitz&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=620pAgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=620pAgAAQBAJ"
+    },
+    "issueNumber": 31,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:38:33.000Z"
+  },
+  {
     "title": "Creativity, Inc.",
     "authors": [
       "Ed Catmull",

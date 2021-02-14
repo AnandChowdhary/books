@@ -9,8 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (21)
+### ⌛ Currently reading (23)
 
+[![Book cover of Homo Deus](http://books.google.com/books/content?id=H2t_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/32 "Homo Deus by Yuval Noah Harari")
+[![Book cover of The Hard Thing About Hard Things](http://books.google.com/books/content?id=620pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/31 "The Hard Thing About Hard Things by Ben Horowitz")
 [![Book cover of Creativity, Inc.](http://books.google.com/books/content?id=UqccAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/30 "Creativity, Inc. by Ed Catmull, Amy Wallace")
 [![Book cover of Lean In](http://books.google.com/books/content?id=y9_mxZLYiiMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/29 "Lean In by Sheryl Sandberg")
 [![Book cover of Blink](http://books.google.com/books/content?id=VKGbb1hg8JAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/28 "Blink by Malcolm Gladwell")
