@@ -1,5 +1,63 @@
 [
   {
+    "title": "Steve Jobs",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2011",
+    "description": "Draws on more than forty interviews with Steve Jobs, as well as interviews with family members, friends, competitors, and colleagues to offer a look at the co-founder and leading creative force behind the Apple computer company.",
+    "image": "http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 3906,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 630,
+    "isbn10": "1451648545",
+    "isbn13": "9781451648546",
+    "googleBooks": {
+      "id": "8U2oAAAAQBAJ",
+      "preview": "http://books.google.com/books?id=8U2oAAAAQBAJ&printsec=frontcover&dq=intitle:Steve+Jobs+by+Walter+Isaacson&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=8U2oAAAAQBAJ&dq=intitle:Steve+Jobs+by+Walter+Isaacson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Steve_Jobs.html?hl=&id=8U2oAAAAQBAJ"
+    },
+    "issueNumber": 26,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:37:27.000Z"
+  },
+  {
+    "title": "Tuesdays with Morrie",
+    "authors": [
+      "Mitch Albom"
+    ],
+    "publisher": "Broadway Books",
+    "publishedDate": "2007-06-29",
+    "description": "A special 20th anniversary edition of the beloved international bestseller that changed millions of lives Maybe it was a grandparent, or a teacher, or a colleague. Someone older, patient and wise, who understood you when you were young and searching, helped you see the world as a more profound place, gave you sound advice to help you make your way through it. For Mitch Albom, that person was Morrie Schwartz, his college professor from nearly twenty years ago. Maybe, like Mitch, you lost track of this mentor as you made your way, and the insights faded, and the world seemed colder. Wouldn't you like to see that person again, ask the bigger questions that still haunt you, receive wisdom for your busy life today the way you once did when you were younger? Mitch Albom had that second chance. He reconnected with Morrie in the last months of the older man's life. Knowing he was dying, Morrie visited with Mitch in his study every Tuesday, just as they used to back in college. Their rekindled relationship turned into one final \"class:\" lessons in how to live. Tuesdays with Morrie is a magical chronicle of their time together, through which Mitch shares Morrie's lasting gift with the world.",
+    "image": "http://books.google.com/books/content?id=z2z_6hLoPmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 263,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 224,
+    "isbn10": "0307414094",
+    "isbn13": "9780307414090",
+    "googleBooks": {
+      "id": "z2z_6hLoPmgC",
+      "preview": "http://books.google.com/books?id=z2z_6hLoPmgC&printsec=frontcover&dq=intitle:Tuesdays+with+Morrie+by+Mitch+Albom&hl=&cd=2&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=z2z_6hLoPmgC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=z2z_6hLoPmgC"
+    },
+    "issueNumber": 25,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:34:38.000Z"
+  },
+  {
     "title": "The Tipping Point",
     "authors": [
       "Malcolm Gladwell"
