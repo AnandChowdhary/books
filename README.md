@@ -11,13 +11,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 <!--start:bookshelf-action-->
 ### ⌛ Currently reading (1)
 
-<a
-  href="https://github.com/AnandChowdhary/books/issues/2"
-  title="The Hard Thing About Hard Things by Ben Horowitz"
-  ><img
-    alt="The Hard Thing About Hard Things"
-    src="http://books.google.com/books/content?id=620pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-/></a>
+[![Book cover of The Hard Thing About Hard Things](http://books.google.com/books/content?id=620pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/2 "The Hard Thing About Hard Things by Ben Horowitz")
 
 <!--end:bookshelf-action-->
 
