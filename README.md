@@ -11,7 +11,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 <!--start:bookshelf-action-->
 ### ⌛ Currently reading (1)
 
-[![Book cover of What Doesn't Kill You](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DD0dBDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/35 "What Doesn't Kill You by Aimee Hix")
+[![Book cover of What You Do Is Who You Are](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DPp-IDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/36 "What You Do Is Who You Are by Ben Horowitz")
 
 ### ✅ Completed (22)
 
