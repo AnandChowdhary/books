@@ -1,5 +1,34 @@
 [
   {
+    "title": "Lying",
+    "authors": [
+      "Sam Harris"
+    ],
+    "publisher": "Four Elephants Press",
+    "publishedDate": "2013-10-23",
+    "description": "As it was in Anna Karenina, Madame Bovary, and Othello, so it is in life. Most forms of private vice and public evil are kindled and sustained by lies. Acts of adultery and other personal betrayals, financial fraud, government corruption—even murder and genocide—generally require an additional moral defect: a willingness to lie. In Lying, best-selling author and neuroscientist Sam Harris argues that we can radically simplify our lives and improve society by merely telling the truth in situations where others often lie. He focuses on \"white\" lies—those lies we tell for the purpose of sparing people discomfort—for these are the lies that most often tempt us. And they tend to be the only lies that good people tell while imagining that they are being good in the process.",
+    "image": "http://books.google.com/books/content?id=aVz_BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 14,
+    "categories": [
+      "Philosophy"
+    ],
+    "pageCount": 108,
+    "isbn10": "1940051010",
+    "isbn13": "9781940051017",
+    "googleBooks": {
+      "id": "aVz_BgAAQBAJ",
+      "preview": "http://books.google.com/books?id=aVz_BgAAQBAJ&printsec=frontcover&dq=intitle:Lying+by+Sam+Harris&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=aVz_BgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=aVz_BgAAQBAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:02:25.000Z"
+  },
+  {
     "title": "The Hard Thing About Hard Things",
     "authors": [
       "Ben Horowitz"
