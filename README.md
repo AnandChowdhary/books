@@ -9,8 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (17)
+### ⌛ Currently reading (19)
 
+[![Book cover of Blink](http://books.google.com/books/content?id=VKGbb1hg8JAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/28 "Blink by Malcolm Gladwell")
+[![Book cover of The Dictator's Handbook](http://books.google.com/books/content?id=K6Lk8IgACXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/27 "The Dictator's Handbook by Bruce Bueno de Mesquita, Alastair Smith")
 [![Book cover of Steve Jobs](http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/26 "Steve Jobs by Walter Isaacson")
 [![Book cover of Tuesdays with Morrie](http://books.google.com/books/content?id=z2z_6hLoPmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/25 "Tuesdays with Morrie by Mitch Albom")
 [![Book cover of The Tipping Point](http://books.google.com/books/content?id=yBDBEGBIUmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/24 "The Tipping Point by Malcolm Gladwell")
