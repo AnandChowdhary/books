@@ -1,5 +1,34 @@
 [
   {
+    "title": "Outliers",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "publisher": "Little, Brown",
+    "publishedDate": "2008-11-18",
+    "description": "Learn what sets high achievers apart -- from Bill Gates to the Beatles -- in this #1 bestseller from \"a singular talent\" (New York Times Book Review). In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different? His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band. Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate.",
+    "image": "http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 4284,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 320,
+    "isbn10": "0316040347",
+    "isbn13": "9780316040341",
+    "googleBooks": {
+      "id": "3NSImqqnxnkC",
+      "preview": "http://books.google.com/books?id=3NSImqqnxnkC&printsec=frontcover&dq=intitle:Outliers+by+Malcolm+Gladwell&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=3NSImqqnxnkC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=3NSImqqnxnkC"
+    },
+    "issueNumber": 5,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:02:59.000Z"
+  },
+  {
     "title": "Sapiens",
     "authors": [
       "Yuval Noah Harari"
