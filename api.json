@@ -1,5 +1,61 @@
 [
   {
+    "title": "The Innovators",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2014-10-07",
+    "description": "A revelatory history of the people who created the computer and the internet discusses the process through which innovation happens in the modern world, citing the pivotal contributions of such figures as programming pioneer Ada Lovelace. By the author of Steve Jobs. 500,000 first printing.",
+    "image": "http://books.google.com/books/content?id=aFapBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 542,
+    "isbn10": "147670869X",
+    "isbn13": "9781476708690",
+    "googleBooks": {
+      "id": "aFapBAAAQBAJ",
+      "preview": "http://books.google.com/books?id=aFapBAAAQBAJ&printsec=frontcover&dq=intitle:The+Innovators+by+Walter+Isaacson&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=aFapBAAAQBAJ&dq=intitle:The+Innovators+by+Walter+Isaacson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Innovators.html?hl=&id=aFapBAAAQBAJ"
+    },
+    "issueNumber": 12,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:29:44.000Z"
+  },
+  {
+    "title": "Outliers",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "publisher": "Little, Brown",
+    "publishedDate": "2008-11-18",
+    "description": "Learn what sets high achievers apart -- from Bill Gates to the Beatles -- in this #1 bestseller from \"a singular talent\" (New York Times Book Review). In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different? His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band. Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate.",
+    "image": "http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 4284,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 320,
+    "isbn10": "0316040347",
+    "isbn13": "9780316040341",
+    "googleBooks": {
+      "id": "3NSImqqnxnkC",
+      "preview": "http://books.google.com/books?id=3NSImqqnxnkC&printsec=frontcover&dq=intitle:Outliers+by+Malcolm+Gladwell&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=3NSImqqnxnkC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=3NSImqqnxnkC"
+    },
+    "issueNumber": 11,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:29:36.000Z"
+  },
+  {
     "title": "Sapiens",
     "authors": [
       "Yuval Noah Harari"
