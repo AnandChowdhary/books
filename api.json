@@ -25,7 +25,10 @@
     },
     "issueNumber": 2,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T15:45:12.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T15:45:12.000Z",
+    "completedAt": "2021-02-14T15:55:00.000Z",
+    "timeToComplete": 588000,
+    "timeToCompleteFormatted": "9 minutes"
   }
 ]
