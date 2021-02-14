@@ -9,14 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (4)
+### ⌛ Currently reading (1)
 
-[![Book cover of Rich Dad, Poor Dad](http://books.google.com/books/content?id=Cx6aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/7 "Rich Dad, Poor Dad by Robert T. Kiyosaki")
-[![Book cover of Outliers](http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/5 "Outliers by Malcolm Gladwell")
-[![Book cover of Sapiens](http://books.google.com/books/content?id=FmyBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/4 "Sapiens by Yuval Noah Harari")
-[![Book cover of Lying](http://books.google.com/books/content?id=aVz_BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/3 "Lying by Sam Harris")### ✅ Completed (1)
-
-[![Book cover of The Hard Thing About Hard Things](http://books.google.com/books/content?id=620pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/2 "The Hard Thing About Hard Things by Ben Horowitz completed in 9 minutes on February")
+[![Book cover of Lying](http://books.google.com/books/content?id=aVz_BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/9 "Lying by Sam Harris")
 
 <!--end:bookshelf-action-->
 

@@ -1,92 +1,5 @@
 [
   {
-    "title": "Rich Dad, Poor Dad",
-    "authors": [
-      "Robert T. Kiyosaki"
-    ],
-    "publisher": "Scribl",
-    "publishedDate": "2019-05-25",
-    "description": "In Rich Dad Poor Dad, the #1 Personal Finance book of all time, Robert Kiyosaki shares the story of his two dad: his real father, whom he calls his poor dad,’ and the father of his best friend, the man who became his mentor and his rich dad.’ One man was well educated and an employee all his life, the other’s education was street smarts” over traditional classroom education and he took the path of entrepreneurship a road that led him to become one of the wealthiest men in Hawaii. Robert’s poor dad struggled financially all his life, and these two dads these very different points of view of money, investing, and employment shaped Robert’s thinking about money.Robert has challenged and changed the way tens of millions of people, around the world, think about money and investing and he has become a global advocate for financial education and the path to financial freedom. Rich Dad Poor Dad (and the Rich Dad series it spawned) has sold over 36 million copies in English and translated editions around the world.Rich Dad Poor Dad will explode the myth that you need to earn a high income to become rich challenge the belief that your house is an asset show parents why they can’t rely on the school system to teach their kidsabout money define, once and for all, an asset and a liability explain the difference between good debt and bad debt teach you to see the world of money from different perspectives discuss the shift in mindset that can put you on the road to financial freedom",
-    "image": "http://books.google.com/books/content?id=Cx6aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 85,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 104,
-    "isbn10": "1365108104",
-    "isbn13": "9781365108105",
-    "googleBooks": {
-      "id": "Cx6aDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=Cx6aDwAAQBAJ&printsec=frontcover&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=Cx6aDwAAQBAJ&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Rich_Dad_Poor_Dad.html?hl=&id=Cx6aDwAAQBAJ"
-    },
-    "issueNumber": 7,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:03:22.000Z"
-  },
-  {
-    "title": "Outliers",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "publisher": "Little, Brown",
-    "publishedDate": "2008-11-18",
-    "description": "Learn what sets high achievers apart -- from Bill Gates to the Beatles -- in this #1 bestseller from \"a singular talent\" (New York Times Book Review). In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different? His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band. Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate.",
-    "image": "http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 4284,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 320,
-    "isbn10": "0316040347",
-    "isbn13": "9780316040341",
-    "googleBooks": {
-      "id": "3NSImqqnxnkC",
-      "preview": "http://books.google.com/books?id=3NSImqqnxnkC&printsec=frontcover&dq=intitle:Outliers+by+Malcolm+Gladwell&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=3NSImqqnxnkC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=3NSImqqnxnkC"
-    },
-    "issueNumber": 5,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:02:59.000Z"
-  },
-  {
-    "title": "Sapiens",
-    "authors": [
-      "Yuval Noah Harari"
-    ],
-    "publisher": "Harper Collins",
-    "publishedDate": "2015-02-10",
-    "description": "New York Times Bestseller A Summer Reading Pick for President Barack Obama, Bill Gates, and Mark Zuckerberg From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.” One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us? Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens integrates history and science to reconsider accepted narratives, connect past developments with contemporary concerns, and examine specific events within the context of larger ideas. Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become? Featuring 27 photographs, 6 maps, and 25 illustrations/diagrams, this provocative and insightful work is sure to spark debate and is essential reading for aficionados of Jared Diamond, James Gleick, Matt Ridley, Robert Wright, and Sharon Moalem.",
-    "image": "http://books.google.com/books/content?id=FmyBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 97,
-    "categories": [
-      "Science"
-    ],
-    "pageCount": 464,
-    "isbn10": "0062316109",
-    "isbn13": "9780062316103",
-    "googleBooks": {
-      "id": "FmyBAwAAQBAJ",
-      "preview": "http://books.google.com/books?id=FmyBAwAAQBAJ&printsec=frontcover&dq=intitle:Sapiens+by+Yuval+Noah+Harari&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=FmyBAwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=FmyBAwAAQBAJ"
-    },
-    "issueNumber": 4,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:02:46.000Z"
-  },
-  {
     "title": "Lying",
     "authors": [
       "Sam Harris"
@@ -110,41 +23,9 @@
       "info": "https://play.google.com/store/books/details?id=aVz_BgAAQBAJ&source=gbs_api",
       "canonical": "https://play.google.com/store/books/details?id=aVz_BgAAQBAJ"
     },
-    "issueNumber": 3,
+    "issueNumber": 9,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2021-02-14T16:02:25.000Z"
-  },
-  {
-    "title": "The Hard Thing About Hard Things",
-    "authors": [
-      "Ben Horowitz"
-    ],
-    "publisher": "Harper Collins",
-    "publishedDate": "2014-03-04",
-    "description": "Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, offers essential advice on building and running a startup—practical wisdom for managing the toughest problems business school doesn’t cover, based on his popular ben’s blog. While many people talk about how great it is to start a business, very few are honest about how difficult it is to run one. Ben Horowitz analyzes the problems that confront leaders every day, sharing the insights he’s gained developing, managing, selling, buying, investing in, and supervising technology companies. A lifelong rap fanatic, he amplifies business lessons with lyrics from his favorite songs, telling it straight about everything from firing friends to poaching competitors, cultivating and sustaining a CEO mentality to knowing the right time to cash in. Filled with his trademark humor and straight talk, The Hard Thing About Hard Things is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures, drawing from Horowitz's personal and often humbling experiences.",
-    "image": "http://books.google.com/books/content?id=620pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 8,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 304,
-    "isbn10": "0062273213",
-    "isbn13": "9780062273215",
-    "googleBooks": {
-      "id": "620pAgAAQBAJ",
-      "preview": "http://books.google.com/books?id=620pAgAAQBAJ&printsec=frontcover&dq=intitle:The+Hard+Thing+About+Hard+Things+by+Ben+Horowitz&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=620pAgAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=620pAgAAQBAJ"
-    },
-    "issueNumber": 2,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2021-02-14T15:45:12.000Z",
-    "completedAt": "2021-02-14T15:55:00.000Z",
-    "timeToComplete": 588000,
-    "timeToCompleteFormatted": "9 minutes"
+    "startedAt": "2021-02-14T16:28:06.000Z"
   }
 ]
