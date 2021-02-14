@@ -9,8 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (19)
+### ⌛ Currently reading (21)
 
+[![Book cover of Creativity, Inc.](http://books.google.com/books/content?id=UqccAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/30 "Creativity, Inc. by Ed Catmull, Amy Wallace")
+[![Book cover of Lean In](http://books.google.com/books/content?id=y9_mxZLYiiMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/29 "Lean In by Sheryl Sandberg")
 [![Book cover of Blink](http://books.google.com/books/content?id=VKGbb1hg8JAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/28 "Blink by Malcolm Gladwell")
 [![Book cover of The Dictator's Handbook](http://books.google.com/books/content?id=K6Lk8IgACXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/27 "The Dictator's Handbook by Bruce Bueno de Mesquita, Alastair Smith")
 [![Book cover of Steve Jobs](http://books.google.com/books/content?id=8U2oAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/26 "Steve Jobs by Walter Isaacson")

@@ -1,5 +1,64 @@
 [
   {
+    "title": "Creativity, Inc.",
+    "authors": [
+      "Ed Catmull",
+      "Amy Wallace"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2014-04-08",
+    "description": "From a co-founder of Pixar Animation Studios—the Academy Award–winning studio behind Coco, Inside Out, and Toy Story—comes an incisive book about creativity in business and leadership for readers of Daniel Pink, Tom Peters, and Chip and Dan Heath. NEW YORK TIMES BESTSELLER | NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The Huffington Post • Financial Times • Success • Inc. • Library Journal Creativity, Inc. is a manual for anyone who strives for originality and the first-ever, all-access trip into the nerve center of Pixar Animation—into the meetings, postmortems, and “Braintrust” sessions where some of the most successful films in history are made. It is, at heart, a book about creativity—but it is also, as Pixar co-founder and president Ed Catmull writes, “an expression of the ideas that I believe make the best in us possible.” For nearly twenty years, Pixar has dominated the world of animation, producing such beloved films as the Toy Story trilogy, Monsters, Inc., Finding Nemo, The Incredibles, Up, WALL-E, and Inside Out, which have gone on to set box-office records and garner thirty Academy Awards. The joyousness of the storytelling, the inventive plots, the emotional authenticity: In some ways, Pixar movies are an object lesson in what creativity really is. Here, in this book, Catmull reveals the ideals and techniques that have made Pixar so widely admired—and so profitable. As a young man, Ed Catmull had a dream: to make the first computer-animated movie. He nurtured that dream as a Ph.D. student at the University of Utah, where many computer science pioneers got their start, and then forged a partnership with George Lucas that led, indirectly, to his co-founding Pixar in 1986. Nine years later, Toy Story was released, changing animation forever. The essential ingredient in that movie’s success—and in the thirteen movies that followed—was the unique environment that Catmull and his colleagues built at Pixar, based on leadership and management philosophies that protect the creative process and defy convention, such as: • Give a good idea to a mediocre team, and they will screw it up. But give a mediocre idea to a great team, and they will either fix it or come up with something better. • If you don’t strive to uncover what is unseen and understand its nature, you will be ill prepared to lead. • It’s not the manager’s job to prevent risks. It’s the manager’s job to make it safe for others to take them. • The cost of preventing errors is often far greater than the cost of fixing them. • A company’s communication structure should not mirror its organizational structure. Everybody should be able to talk to anybody.",
+    "image": "http://books.google.com/books/content?id=UqccAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 33,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 368,
+    "isbn10": "0679644504",
+    "isbn13": "9780679644507",
+    "googleBooks": {
+      "id": "UqccAgAAQBAJ",
+      "preview": "http://books.google.com/books?id=UqccAgAAQBAJ&printsec=frontcover&dq=intitle:Creativity,+Inc.+by+Ed+Catmull&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=UqccAgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=UqccAgAAQBAJ"
+    },
+    "issueNumber": 30,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:38:17.000Z"
+  },
+  {
+    "title": "Lean In",
+    "authors": [
+      "Sheryl Sandberg"
+    ],
+    "publisher": "Knopf",
+    "publishedDate": "2013-03-11",
+    "description": "The #1 international best seller In Lean In, Sheryl Sandberg reignited the conversation around women in the workplace. Sandberg is chief operating officer of Facebook and coauthor of Option B with Adam Grant. In 2010, she gave an electrifying TED talk in which she described how women unintentionally hold themselves back in their careers. Her talk, which has been viewed more than six million times, encouraged women to “sit at the table,” seek challenges, take risks, and pursue their goals with gusto. Lean In continues that conversation, combining personal anecdotes, hard data, and compelling research to change the conversation from what women can’t do to what they can. Sandberg provides practical advice on negotiation techniques, mentorship, and building a satisfying career. She describes specific steps women can take to combine professional achievement with personal fulfillment, and demonstrates how men can benefit by supporting women both in the workplace and at home. Written with humor and wisdom, Lean In is a revelatory, inspiring call to action and a blueprint for individual growth that will empower women around the world to achieve their full potential.",
+    "image": "http://books.google.com/books/content?id=y9_mxZLYiiMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 3751,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 240,
+    "isbn10": "0385349955",
+    "isbn13": "9780385349956",
+    "googleBooks": {
+      "id": "y9_mxZLYiiMC",
+      "preview": "http://books.google.com/books?id=y9_mxZLYiiMC&printsec=frontcover&dq=intitle:Lean+In+by+Sheryl+Sandberg&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=y9_mxZLYiiMC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=y9_mxZLYiiMC"
+    },
+    "issueNumber": 29,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:38:06.000Z"
+  },
+  {
     "title": "Blink",
     "authors": [
       "Malcolm Gladwell"
