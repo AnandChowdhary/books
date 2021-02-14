@@ -1,5 +1,34 @@
 [
   {
+    "title": "Rich Dad, Poor Dad",
+    "authors": [
+      "Robert T. Kiyosaki"
+    ],
+    "publisher": "Scribl",
+    "publishedDate": "2019-05-25",
+    "description": "In Rich Dad Poor Dad, the #1 Personal Finance book of all time, Robert Kiyosaki shares the story of his two dad: his real father, whom he calls his poor dad,’ and the father of his best friend, the man who became his mentor and his rich dad.’ One man was well educated and an employee all his life, the other’s education was street smarts” over traditional classroom education and he took the path of entrepreneurship a road that led him to become one of the wealthiest men in Hawaii. Robert’s poor dad struggled financially all his life, and these two dads these very different points of view of money, investing, and employment shaped Robert’s thinking about money.Robert has challenged and changed the way tens of millions of people, around the world, think about money and investing and he has become a global advocate for financial education and the path to financial freedom. Rich Dad Poor Dad (and the Rich Dad series it spawned) has sold over 36 million copies in English and translated editions around the world.Rich Dad Poor Dad will explode the myth that you need to earn a high income to become rich challenge the belief that your house is an asset show parents why they can’t rely on the school system to teach their kidsabout money define, once and for all, an asset and a liability explain the difference between good debt and bad debt teach you to see the world of money from different perspectives discuss the shift in mindset that can put you on the road to financial freedom",
+    "image": "http://books.google.com/books/content?id=Cx6aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 85,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 104,
+    "isbn10": "1365108104",
+    "isbn13": "9781365108105",
+    "googleBooks": {
+      "id": "Cx6aDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=Cx6aDwAAQBAJ&printsec=frontcover&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Cx6aDwAAQBAJ&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Rich_Dad_Poor_Dad.html?hl=&id=Cx6aDwAAQBAJ"
+    },
+    "issueNumber": 13,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:31:49.000Z"
+  },
+  {
     "title": "The Innovators",
     "authors": [
       "Walter Isaacson"
