@@ -1,5 +1,63 @@
 [
   {
+    "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
+    "authors": [
+      "Richard P. Feynman"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2018-02-06",
+    "description": "One of the most famous science books of our time, the phenomenal national bestseller that \"buzzes with energy, anecdote and life. It almost makes you want to become a physicist\" (Science Digest). Richard P. Feynman, winner of the Nobel Prize in physics, thrived on outrageous adventures. In this lively work that “can shatter the stereotype of the stuffy scientist” (Detroit Free Press), Feynman recounts his experiences trading ideas on atomic physics with Einstein and cracking the uncrackable safes guarding the most deeply held nuclear secrets—and much more of an eyebrow-raising nature. In his stories, Feynman’s life shines through in all its eccentric glory—a combustible mixture of high intelligence, unlimited curiosity, and raging chutzpah. Included for this edition is a new introduction by Bill Gates.",
+    "image": "http://books.google.com/books/content?id=_gA_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 3660,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 352,
+    "isbn10": "0393355683",
+    "isbn13": "9780393355680",
+    "googleBooks": {
+      "id": "_gA_DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=_gA_DwAAQBAJ&printsec=frontcover&dq=intitle:Surely+You%27re+Joking,+Mr.+Feynman!+by+Richard+Feynman&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=_gA_DwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=_gA_DwAAQBAJ"
+    },
+    "issueNumber": 17,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:33:09.000Z"
+  },
+  {
+    "title": "1984",
+    "authors": [
+      "George Orwell"
+    ],
+    "publisher": "Univ. Press of Mississippi",
+    "publishedDate": "1977",
+    "description": "Portrays life in a future time when a totalitarian government watches over all citizens and directs all activities.",
+    "image": "http://books.google.com/books/content?id=yxv1LK5gyV4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 2320,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 328,
+    "isbn10": "0451524934",
+    "isbn13": "9780451524935",
+    "googleBooks": {
+      "id": "yxv1LK5gyV4C",
+      "preview": "http://books.google.com/books?id=yxv1LK5gyV4C&dq=intitle:1984+by+George+Orwell&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=yxv1LK5gyV4C&dq=intitle:1984+by+George+Orwell&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/1984.html?hl=&id=yxv1LK5gyV4C"
+    },
+    "issueNumber": 16,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:32:25.000Z"
+  },
+  {
     "title": "21 Lessons for the 21st Century",
     "authors": [
       "Yuval Noah Harari"

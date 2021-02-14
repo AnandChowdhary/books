@@ -9,8 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (7)
+### ⌛ Currently reading (9)
 
+[![Book cover of "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character](http://books.google.com/books/content?id=_gA_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/17 ""Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character by Richard P. Feynman")
+[![Book cover of 1984](http://books.google.com/books/content?id=yxv1LK5gyV4C&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/16 "1984 by George Orwell")
 [![Book cover of 21 Lessons for the 21st Century](http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/15 "21 Lessons for the 21st Century by Yuval Noah Harari")
 [![Book cover of Inglorious Empire](http://books.google.com/books/content?id=ZWwwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/14 "Inglorious Empire by Shashi Tharoor")
 [![Book cover of Rich Dad, Poor Dad](http://books.google.com/books/content?id=Cx6aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/13 "Rich Dad, Poor Dad by Robert T. Kiyosaki")
