@@ -25,8 +25,11 @@
     },
     "issueNumber": 34,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:39:23.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:39:23.000Z",
+    "completedAt": "2021-02-14T16:42:57.000Z",
+    "timeToComplete": 214000,
+    "timeToCompleteFormatted": "3 minutes"
   },
   {
     "title": "Homo Deus",
@@ -54,8 +57,11 @@
     },
     "issueNumber": 32,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:38:46.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:38:46.000Z",
+    "completedAt": "2021-02-14T16:42:57.000Z",
+    "timeToComplete": 251000,
+    "timeToCompleteFormatted": "4 minutes"
   },
   {
     "title": "The Hard Thing About Hard Things",
@@ -83,8 +89,11 @@
     },
     "issueNumber": 31,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:38:33.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:38:33.000Z",
+    "completedAt": "2021-02-14T16:42:57.000Z",
+    "timeToComplete": 264000,
+    "timeToCompleteFormatted": "4 minutes"
   },
   {
     "title": "Creativity, Inc.",
@@ -113,8 +122,11 @@
     },
     "issueNumber": 30,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:38:17.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:38:17.000Z",
+    "completedAt": "2021-02-14T16:42:56.000Z",
+    "timeToComplete": 279000,
+    "timeToCompleteFormatted": "4 minutes"
   },
   {
     "title": "Lean In",
@@ -142,8 +154,11 @@
     },
     "issueNumber": 29,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:38:06.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:38:06.000Z",
+    "completedAt": "2021-02-14T16:42:56.000Z",
+    "timeToComplete": 290000,
+    "timeToCompleteFormatted": "4 minutes"
   },
   {
     "title": "Blink",
@@ -171,38 +186,11 @@
     },
     "issueNumber": 28,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:37:53.000Z"
-  },
-  {
-    "title": "The Dictator's Handbook",
-    "authors": [
-      "Bruce Bueno de Mesquita",
-      "Alastair Smith"
-    ],
-    "publisher": "PublicAffairs",
-    "publishedDate": "2011",
-    "description": "Explains the theory of political survival, particularly in cases of dictators and despotic governments, arguing that political leaders seek to stay in power using any means necessary, most commonly by attending to the interests of certain coalitions.",
-    "image": "http://books.google.com/books/content?id=K6Lk8IgACXMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 7,
-    "categories": [
-      "Political Science"
-    ],
-    "pageCount": 319,
-    "isbn10": "161039044X",
-    "isbn13": "9781610390446",
-    "googleBooks": {
-      "id": "K6Lk8IgACXMC",
-      "preview": "http://books.google.com/books?id=K6Lk8IgACXMC&printsec=frontcover&dq=intitle:The+Dictator%27s+Handbook+by+Bruce+Bueno+De+Mesquita&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=K6Lk8IgACXMC&dq=intitle:The+Dictator%27s+Handbook+by+Bruce+Bueno+De+Mesquita&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Dictator_s_Handbook.html?hl=&id=K6Lk8IgACXMC"
-    },
-    "issueNumber": 27,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:37:41.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:37:53.000Z",
+    "completedAt": "2021-02-14T16:42:56.000Z",
+    "timeToComplete": 303000,
+    "timeToCompleteFormatted": "5 minutes"
   },
   {
     "title": "Steve Jobs",
@@ -230,8 +218,11 @@
     },
     "issueNumber": 26,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:37:27.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:37:27.000Z",
+    "completedAt": "2021-02-14T16:42:56.000Z",
+    "timeToComplete": 329000,
+    "timeToCompleteFormatted": "5 minutes"
   },
   {
     "title": "Tuesdays with Morrie",
@@ -259,37 +250,11 @@
     },
     "issueNumber": 25,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:34:38.000Z"
-  },
-  {
-    "title": "The Tipping Point",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "publisher": "Little, Brown",
-    "publishedDate": "2006-11-01",
-    "description": "Discover Malcolm Gladwell's breakthrough debut and explore the science behind viral trends in business, marketing, and human behavior. The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.",
-    "image": "http://books.google.com/books/content?id=yBDBEGBIUmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 4243,
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 288,
-    "isbn10": "0759574731",
-    "isbn13": "9780759574731",
-    "googleBooks": {
-      "id": "yBDBEGBIUmgC",
-      "preview": "http://books.google.com/books?id=yBDBEGBIUmgC&printsec=frontcover&dq=intitle:The+Tipping+Point+by+Malcolm+Gladwell&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=yBDBEGBIUmgC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=yBDBEGBIUmgC"
-    },
-    "issueNumber": 24,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:34:27.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:34:38.000Z",
+    "completedAt": "2021-02-14T16:42:56.000Z",
+    "timeToComplete": 498000,
+    "timeToCompleteFormatted": "8 minutes"
   },
   {
     "title": "Zero to One",
@@ -318,8 +283,11 @@
     },
     "issueNumber": 23,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:34:16.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:34:16.000Z",
+    "completedAt": "2021-02-14T16:42:55.000Z",
+    "timeToComplete": 519000,
+    "timeToCompleteFormatted": "8 minutes"
   },
   {
     "title": "Sam Walton",
@@ -347,8 +315,11 @@
     },
     "issueNumber": 22,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:34:05.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:34:05.000Z",
+    "completedAt": "2021-02-14T16:42:55.000Z",
+    "timeToComplete": 530000,
+    "timeToCompleteFormatted": "8 minutes"
   },
   {
     "title": "Think and Grow Rich",
@@ -376,8 +347,11 @@
     },
     "issueNumber": 21,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:33:57.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:33:57.000Z",
+    "completedAt": "2021-02-14T16:42:55.000Z",
+    "timeToComplete": 538000,
+    "timeToCompleteFormatted": "8 minutes"
   },
   {
     "title": "The Design of Everyday Things",
@@ -404,8 +378,11 @@
     },
     "issueNumber": 20,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:33:46.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:33:46.000Z",
+    "completedAt": "2021-02-14T16:42:55.000Z",
+    "timeToComplete": 549000,
+    "timeToCompleteFormatted": "9 minutes"
   },
   {
     "title": "How To Win Friends and Influence People",
@@ -433,8 +410,11 @@
     },
     "issueNumber": 19,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:33:38.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:33:38.000Z",
+    "completedAt": "2021-02-14T16:42:55.000Z",
+    "timeToComplete": 557000,
+    "timeToCompleteFormatted": "9 minutes"
   },
   {
     "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
@@ -462,8 +442,11 @@
     },
     "issueNumber": 17,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:33:09.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:33:09.000Z",
+    "completedAt": "2021-02-14T16:42:55.000Z",
+    "timeToComplete": 586000,
+    "timeToCompleteFormatted": "9 minutes"
   },
   {
     "title": "1984",
@@ -491,8 +474,11 @@
     },
     "issueNumber": 16,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:32:25.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:32:25.000Z",
+    "completedAt": "2021-02-14T16:42:55.000Z",
+    "timeToComplete": 630000,
+    "timeToCompleteFormatted": "10 minutes"
   },
   {
     "title": "21 Lessons for the 21st Century",
@@ -520,8 +506,11 @@
     },
     "issueNumber": 15,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:32:16.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:32:16.000Z",
+    "completedAt": "2021-02-14T16:42:54.000Z",
+    "timeToComplete": 638000,
+    "timeToCompleteFormatted": "10 minutes"
   },
   {
     "title": "Inglorious Empire",
@@ -549,8 +538,11 @@
     },
     "issueNumber": 14,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:32:03.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:32:03.000Z",
+    "completedAt": "2021-02-14T16:42:54.000Z",
+    "timeToComplete": 651000,
+    "timeToCompleteFormatted": "10 minutes"
   },
   {
     "title": "Rich Dad, Poor Dad",
@@ -578,8 +570,11 @@
     },
     "issueNumber": 13,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:31:49.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:31:49.000Z",
+    "completedAt": "2021-02-14T16:42:54.000Z",
+    "timeToComplete": 665000,
+    "timeToCompleteFormatted": "11 minutes"
   },
   {
     "title": "The Innovators",
@@ -605,8 +600,11 @@
     },
     "issueNumber": 12,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:29:44.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:29:44.000Z",
+    "completedAt": "2021-02-14T16:42:54.000Z",
+    "timeToComplete": 790000,
+    "timeToCompleteFormatted": "13 minutes"
   },
   {
     "title": "Outliers",
@@ -634,8 +632,11 @@
     },
     "issueNumber": 11,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:29:36.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:29:36.000Z",
+    "completedAt": "2021-02-14T16:42:54.000Z",
+    "timeToComplete": 798000,
+    "timeToCompleteFormatted": "13 minutes"
   },
   {
     "title": "Sapiens",
@@ -663,8 +664,11 @@
     },
     "issueNumber": 10,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:29:26.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:29:26.000Z",
+    "completedAt": "2021-02-14T16:42:54.000Z",
+    "timeToComplete": 808000,
+    "timeToCompleteFormatted": "13 minutes"
   },
   {
     "title": "Lying",
@@ -692,7 +696,10 @@
     },
     "issueNumber": 9,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2021-02-14T16:28:06.000Z"
+    "state": "completed",
+    "startedAt": "2021-02-14T16:28:06.000Z",
+    "completedAt": "2021-02-14T16:42:54.000Z",
+    "timeToComplete": 888000,
+    "timeToCompleteFormatted": "14 minutes"
   }
 ]
