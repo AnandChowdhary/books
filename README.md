@@ -9,8 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (23)
+### ⌛ Currently reading (24)
 
+[![Book cover of Getting Things Done](http://books.google.com/books/content?id=WXcHwzaUd4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/34 "Getting Things Done by David Allen")
 [![Book cover of Homo Deus](http://books.google.com/books/content?id=H2t_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/32 "Homo Deus by Yuval Noah Harari")
 [![Book cover of The Hard Thing About Hard Things](http://books.google.com/books/content?id=620pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/31 "The Hard Thing About Hard Things by Ben Horowitz")
 [![Book cover of Creativity, Inc.](http://books.google.com/books/content?id=UqccAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/30 "Creativity, Inc. by Ed Catmull, Amy Wallace")

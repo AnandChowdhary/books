@@ -1,5 +1,34 @@
 [
   {
+    "title": "Getting Things Done",
+    "authors": [
+      "David Allen"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2001",
+    "description": "ALLEN/GETTING THINGS DONE",
+    "image": "http://books.google.com/books/content?id=WXcHwzaUd4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 149,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 267,
+    "isbn10": "0142000280",
+    "isbn13": "9780142000281",
+    "googleBooks": {
+      "id": "WXcHwzaUd4MC",
+      "preview": "http://books.google.com/books?id=WXcHwzaUd4MC&printsec=frontcover&dq=intitle:Getting+Things+Done+by+David+Allen&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=WXcHwzaUd4MC&dq=intitle:Getting+Things+Done+by+David+Allen&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Getting_Things_Done.html?hl=&id=WXcHwzaUd4MC"
+    },
+    "issueNumber": 34,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:39:23.000Z"
+  },
+  {
     "title": "Homo Deus",
     "authors": [
       "Yuval Noah Harari"
