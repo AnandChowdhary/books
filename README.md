@@ -9,8 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (13)
+### ⌛ Currently reading (15)
 
+[![Book cover of The Tipping Point](http://books.google.com/books/content?id=yBDBEGBIUmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/24 "The Tipping Point by Malcolm Gladwell")
+[![Book cover of Zero to One](http://books.google.com/books/content?id=ZH4oAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/23 "Zero to One by Peter Thiel, Blake Masters")
 [![Book cover of Sam Walton](http://books.google.com/books/content?id=ggN9Kp8UVfwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/22 "Sam Walton by Sam Walton")
 [![Book cover of Think and Grow Rich](http://books.google.com/books/content?id=rYJaPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/21 "Think and Grow Rich by Arthur R. Pell, Napoleon Hill")
 [![Book cover of The Design of Everyday Things](http://books.google.com/books/content?id=heCtnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)](https://github.com/AnandChowdhary/books/issues/20 "The Design of Everyday Things by Donald A. Norman")

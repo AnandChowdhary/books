@@ -1,5 +1,64 @@
 [
   {
+    "title": "The Tipping Point",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "publisher": "Little, Brown",
+    "publishedDate": "2006-11-01",
+    "description": "Discover Malcolm Gladwell's breakthrough debut and explore the science behind viral trends in business, marketing, and human behavior. The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.",
+    "image": "http://books.google.com/books/content?id=yBDBEGBIUmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 4243,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 288,
+    "isbn10": "0759574731",
+    "isbn13": "9780759574731",
+    "googleBooks": {
+      "id": "yBDBEGBIUmgC",
+      "preview": "http://books.google.com/books?id=yBDBEGBIUmgC&printsec=frontcover&dq=intitle:The+Tipping+Point+by+Malcolm+Gladwell&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=yBDBEGBIUmgC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=yBDBEGBIUmgC"
+    },
+    "issueNumber": 24,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:34:27.000Z"
+  },
+  {
+    "title": "Zero to One",
+    "authors": [
+      "Peter Thiel",
+      "Blake Masters"
+    ],
+    "publisher": "Currency",
+    "publishedDate": "2014-09-16",
+    "description": "#1 NEW YORK TIMES BESTSELLER If you want to build a better future, you must believe in secrets. The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself. Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
+    "image": "http://books.google.com/books/content?id=ZH4oAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 2795,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 224,
+    "isbn10": "080413930X",
+    "isbn13": "9780804139304",
+    "googleBooks": {
+      "id": "ZH4oAwAAQBAJ",
+      "preview": "http://books.google.com/books?id=ZH4oAwAAQBAJ&printsec=frontcover&dq=intitle:Zero+to+One+by+Peter+Thiel&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=ZH4oAwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=ZH4oAwAAQBAJ"
+    },
+    "issueNumber": 23,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-14T16:34:16.000Z"
+  },
+  {
     "title": "Sam Walton",
     "authors": [
       "Sam Walton"
