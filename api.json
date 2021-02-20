@@ -1,5 +1,32 @@
 [
   {
+    "title": "How to Avoid a Climate Disaster",
+    "authors": [
+      "Bill Gates"
+    ],
+    "publisher": "Knopf",
+    "publishedDate": "2021-02-16",
+    "description": "In this urgent, authoritative book, Bill Gates sets out a wide-ranging, practical--and accessible--plan for how the world can get to zero greenhouse gas emissions in time to avoid a climate catastrophe. Bill Gates has spent a decade investigating the causes and effects of climate change. With the help of experts in the fields of physics, chemistry, biology, engineering, political science, and finance, he has focused on what must be done in order to stop the planet's slide to certain environmental disaster. In this book, he not only explains why we need to work toward net-zero emissions of greenhouse gases, but also details what we need to do to achieve this profoundly important goal. He gives us a clear-eyed description of the challenges we face. Drawing on his understanding of innovation and what it takes to get new ideas into the market, he describes the areas in which technology is already helping to reduce emissions, where and how the current technology can be made to function more effectively, where breakthrough technologies are needed, and who is working on these essential innovations. Finally, he lays out a concrete, practical plan for achieving the goal of zero emissions--suggesting not only policies that governments should adopt, but what we as individuals can do to keep our government, our employers, and ourselves accountable in this crucial enterprise. As Bill Gates makes clear, achieving zero emissions will not be simple or easy to do, but if we follow the plan he sets out here, it is a goal firmly within our reach.",
+    "image": "http://books.google.com/books/content?id=pHK0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 272,
+    "isbn10": "0385546149",
+    "isbn13": "9780385546140",
+    "googleBooks": {
+      "id": "pHK0DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=pHK0DwAAQBAJ&printsec=frontcover&dq=intitle:How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=pHK0DwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=pHK0DwAAQBAJ"
+    },
+    "issueNumber": 37,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2021-02-20T18:06:34.000Z"
+  },
+  {
     "title": "What You Do Is Who You Are",
     "authors": [
       "Ben Horowitz"
