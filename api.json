@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Tipping Point",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "publisher": "Little, Brown",
+    "publishedDate": "2006-11-01",
+    "description": "From the bestselling author of The Bomber Mafia: discover Malcolm Gladwell's breakthrough debut and explore the science behind viral trends in business, marketing, and human behavior. The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas. “A wonderful page-turner about a fascinating idea that should affect the way every thinking person looks at the world.” —Michael Lewis",
+    "image": "http://books.google.com/books/content?id=yBDBEGBIUmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 4243,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 288,
+    "isbn10": "0759574731",
+    "isbn13": "9780759574731",
+    "googleBooks": {
+      "id": "yBDBEGBIUmgC",
+      "preview": "http://books.google.com/books?id=yBDBEGBIUmgC&printsec=frontcover&dq=intitle:The+Tipping+Point+by+Malcolm+Gladwell&hl=&cd=2&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=yBDBEGBIUmgC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=yBDBEGBIUmgC"
+    },
+    "issueNumber": 39,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-01-13T06:02:10.000Z"
+  },
+  {
     "title": "The Cold Start Problem",
     "authors": [
       "Andrew Chen"
