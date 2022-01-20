@@ -1,5 +1,36 @@
 [
   {
+    "title": "The One Minute Manager",
+    "authors": [
+      "Kenneth Blanchard",
+      "Kenneth H. Blanchard",
+      "Spencer Johnson"
+    ],
+    "publisher": "Berkley Publishing Group",
+    "publishedDate": "1985-08-15",
+    "description": "For 30 Years, millions of managers around the world have followed the One Minute Managers techniques, increasing their productivity, job satisfaction and personal prosperity An international phenomenon, this simple story demonstrates the three very practical it management techniques of the One Minute Manager and shows how to apply them successfully to you own and enjoy fantastic results Book jacket.",
+    "image": "http://books.google.com/books/content?id=hbQco6gUKm4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 23,
+    "categories": [
+      "Businessmen"
+    ],
+    "pageCount": 111,
+    "isbn10": "0425085260",
+    "isbn13": "9780425085264",
+    "googleBooks": {
+      "id": "hbQco6gUKm4C",
+      "preview": "http://books.google.com/books?id=hbQco6gUKm4C&q=intitle:The+New+one+minute+Manager&dq=intitle:The+New+one+minute+Manager&hl=&cd=4&source=gbs_api",
+      "info": "http://books.google.com/books?id=hbQco6gUKm4C&dq=intitle:The+New+one+minute+Manager&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_One_Minute_Manager.html?hl=&id=hbQco6gUKm4C"
+    },
+    "issueNumber": 40,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-01-20T04:26:41.000Z"
+  },
+  {
     "title": "The Tipping Point",
     "authors": [
       "Malcolm Gladwell"
