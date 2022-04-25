@@ -1,5 +1,34 @@
 [
   {
+    "title": "Talking to Strangers",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "publisher": "Little, Brown",
+    "publishedDate": "2019-09-10",
+    "description": "Malcolm Gladwell, host of the podcast Revisionist History and author of the #1 New York Times bestseller Outliers, offers a powerful examination of our interactions with strangers and why they often go wrong—now with a new afterword by the author. A Best Book of the Year: The Financial Times, Bloomberg, Chicago Tribune, and Detroit Free Press How did Fidel Castro fool the CIA for a generation? Why did Neville Chamberlain think he could trust Adolf Hitler? Why are campus sexual assaults on the rise? Do television sitcoms teach us something about the way we relate to one another that isn’t true? Talking to Strangers is a classically Gladwellian intellectual adventure, a challenging and controversial excursion through history, psychology, and scandals taken straight from the news. He revisits the deceptions of Bernie Madoff, the trial of Amanda Knox, the suicide of Sylvia Plath, the Jerry Sandusky pedophilia scandal at Penn State University, and the death of Sandra Bland—throwing our understanding of these and other stories into doubt. Something is very wrong, Gladwell argues, with the tools and strategies we use to make sense of people we don’t know. And because we don’t know how to talk to strangers, we are inviting conflict and misunderstanding in ways that have a profound effect on our lives and our world. In his first book since his #1 bestseller David and Goliath, Malcolm Gladwell has written a gripping guidebook for troubled times.",
+    "image": "http://books.google.com/books/content?id=VnuGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 39,
+    "categories": [
+      "Social Science"
+    ],
+    "pageCount": 400,
+    "isbn10": "0316535621",
+    "isbn13": "9780316535625",
+    "googleBooks": {
+      "id": "VnuGDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=VnuGDwAAQBAJ&printsec=frontcover&dq=intitle:Talking+to+Strangers+by+Malcolm+Gladwell&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=VnuGDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=VnuGDwAAQBAJ"
+    },
+    "issueNumber": 41,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-04-25T05:58:39.000Z"
+  },
+  {
     "title": "The One Minute Manager",
     "authors": [
       "Kenneth Blanchard",
