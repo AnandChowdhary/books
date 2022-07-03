@@ -198,10 +198,10 @@
     "issueNumber": 34,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:39:23.000Z",
-    "completedAt": "2021-02-14T16:42:57.000Z",
-    "timeToComplete": 214000,
-    "timeToCompleteFormatted": "3 minutes"
+    "startedAt": "2015-03-04T00:00:00.000Z",
+    "completedAt": "2014-04-04T00:00:00.000Z",
+    "timeToComplete": -28857600000,
+    "timeToCompleteFormatted": "10 months"
   },
   {
     "title": "Homo Deus",
@@ -230,10 +230,10 @@
     "issueNumber": 32,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:38:46.000Z",
-    "completedAt": "2021-02-14T16:42:57.000Z",
-    "timeToComplete": 251000,
-    "timeToCompleteFormatted": "4 minutes"
+    "startedAt": "2015-02-12T00:00:00.000Z",
+    "completedAt": "2014-06-04T00:00:00.000Z",
+    "timeToComplete": -21859200000,
+    "timeToCompleteFormatted": "8 months"
   },
   {
     "title": "The Hard Thing About Hard Things",
@@ -262,10 +262,10 @@
     "issueNumber": 31,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:38:33.000Z",
-    "completedAt": "2021-02-14T16:42:57.000Z",
-    "timeToComplete": 264000,
-    "timeToCompleteFormatted": "4 minutes"
+    "startedAt": "2014-04-04T00:00:00.000Z",
+    "completedAt": "2014-04-04T00:00:00.000Z",
+    "timeToComplete": 0,
+    "timeToCompleteFormatted": "0 seconds"
   },
   {
     "title": "Creativity, Inc.",
@@ -295,10 +295,10 @@
     "issueNumber": 30,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:38:17.000Z",
-    "completedAt": "2021-02-14T16:42:56.000Z",
-    "timeToComplete": 279000,
-    "timeToCompleteFormatted": "4 minutes"
+    "startedAt": "2014-10-12T00:00:00.000Z",
+    "completedAt": "2014-06-04T00:00:00.000Z",
+    "timeToComplete": -11232000000,
+    "timeToCompleteFormatted": "4 months"
   },
   {
     "title": "Lean In",
@@ -327,10 +327,10 @@
     "issueNumber": 29,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:38:06.000Z",
-    "completedAt": "2021-02-14T16:42:56.000Z",
-    "timeToComplete": 290000,
-    "timeToCompleteFormatted": "4 minutes"
+    "startedAt": "2013-10-12T00:00:00.000Z",
+    "completedAt": "2014-06-04T00:00:00.000Z",
+    "timeToComplete": 20304000000,
+    "timeToCompleteFormatted": "7 months"
   },
   {
     "title": "Blink",
@@ -359,10 +359,10 @@
     "issueNumber": 28,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:37:53.000Z",
-    "completedAt": "2021-02-14T16:42:56.000Z",
-    "timeToComplete": 303000,
-    "timeToCompleteFormatted": "5 minutes"
+    "startedAt": "2013-04-04T00:00:00.000Z",
+    "completedAt": "2014-04-04T00:00:00.000Z",
+    "timeToComplete": 31536000000,
+    "timeToCompleteFormatted": "11 months"
   },
   {
     "title": "Steve Jobs",
@@ -391,10 +391,10 @@
     "issueNumber": 26,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:37:27.000Z",
-    "completedAt": "2021-02-14T16:42:56.000Z",
-    "timeToComplete": 329000,
-    "timeToCompleteFormatted": "5 minutes"
+    "startedAt": "2012-12-02T00:00:00.000Z",
+    "completedAt": "2013-01-22T00:00:00.000Z",
+    "timeToComplete": 4406400000,
+    "timeToCompleteFormatted": "1 month"
   },
   {
     "title": "Tuesdays with Morrie",
@@ -423,10 +423,10 @@
     "issueNumber": 25,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:34:38.000Z",
-    "completedAt": "2021-02-14T16:42:56.000Z",
-    "timeToComplete": 498000,
-    "timeToCompleteFormatted": "8 minutes"
+    "startedAt": "2020-05-25T00:00:00.000Z",
+    "completedAt": "2020-06-20T00:00:00.000Z",
+    "timeToComplete": 2246400000,
+    "timeToCompleteFormatted": "3 weeks"
   },
   {
     "title": "Zero to One",
@@ -456,10 +456,10 @@
     "issueNumber": 23,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:34:16.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 519000,
-    "timeToCompleteFormatted": "8 minutes"
+    "startedAt": "2019-06-01T00:00:00.000Z",
+    "completedAt": "2019-08-30T00:00:00.000Z",
+    "timeToComplete": 7776000000,
+    "timeToCompleteFormatted": "2 months"
   },
   {
     "title": "Sam Walton",
@@ -488,10 +488,10 @@
     "issueNumber": 22,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:34:05.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 530000,
-    "timeToCompleteFormatted": "8 minutes"
+    "startedAt": "2016-07-14T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 113875200000,
+    "timeToCompleteFormatted": "3 years"
   },
   {
     "title": "Think and Grow Rich",
@@ -520,10 +520,10 @@
     "issueNumber": 21,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:33:57.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 538000,
-    "timeToCompleteFormatted": "8 minutes"
+    "startedAt": "2016-10-01T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 107049600000,
+    "timeToCompleteFormatted": "3 years"
   },
   {
     "title": "The Design of Everyday Things",
@@ -551,10 +551,10 @@
     "issueNumber": 20,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:33:46.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 549000,
-    "timeToCompleteFormatted": "9 minutes"
+    "startedAt": "2016-10-03T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 106876800000,
+    "timeToCompleteFormatted": "3 years"
   },
   {
     "title": "How To Win Friends and Influence People",
@@ -583,10 +583,10 @@
     "issueNumber": 19,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:33:38.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 557000,
-    "timeToCompleteFormatted": "9 minutes"
+    "startedAt": "2016-10-03T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 106876800000,
+    "timeToCompleteFormatted": "3 years"
   },
   {
     "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
@@ -615,10 +615,10 @@
     "issueNumber": 17,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:33:09.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 586000,
-    "timeToCompleteFormatted": "9 minutes"
+    "startedAt": "2016-11-15T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 103161600000,
+    "timeToCompleteFormatted": "3 years"
   },
   {
     "title": "1984",
@@ -647,10 +647,10 @@
     "issueNumber": 16,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:32:25.000Z",
-    "completedAt": "2021-02-14T16:42:55.000Z",
-    "timeToComplete": 630000,
-    "timeToCompleteFormatted": "10 minutes"
+    "startedAt": "2017-05-21T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 87004800000,
+    "timeToCompleteFormatted": "2 years"
   },
   {
     "title": "21 Lessons for the 21st Century",
@@ -679,10 +679,10 @@
     "issueNumber": 15,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:32:16.000Z",
-    "completedAt": "2021-02-14T16:42:54.000Z",
-    "timeToComplete": 638000,
-    "timeToCompleteFormatted": "10 minutes"
+    "startedAt": "2019-01-01T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 36028800000,
+    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "Inglorious Empire",
@@ -711,10 +711,10 @@
     "issueNumber": 14,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:32:03.000Z",
-    "completedAt": "2021-02-14T16:42:54.000Z",
-    "timeToComplete": 651000,
-    "timeToCompleteFormatted": "10 minutes"
+    "startedAt": "2019-02-06T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 32918400000,
+    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "Rich Dad, Poor Dad",
@@ -743,10 +743,10 @@
     "issueNumber": 13,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:31:49.000Z",
-    "completedAt": "2021-02-14T16:42:54.000Z",
-    "timeToComplete": 665000,
-    "timeToCompleteFormatted": "11 minutes"
+    "startedAt": "2019-03-25T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 28857600000,
+    "timeToCompleteFormatted": "10 months"
   },
   {
     "title": "The Innovators",
@@ -773,10 +773,10 @@
     "issueNumber": 12,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:29:44.000Z",
-    "completedAt": "2021-02-14T16:42:54.000Z",
-    "timeToComplete": 790000,
-    "timeToCompleteFormatted": "13 minutes"
+    "startedAt": "2019-11-13T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 8726400000,
+    "timeToCompleteFormatted": "3 months"
   },
   {
     "title": "Outliers",
@@ -805,10 +805,10 @@
     "issueNumber": 11,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:29:36.000Z",
-    "completedAt": "2021-02-14T16:42:54.000Z",
-    "timeToComplete": 798000,
-    "timeToCompleteFormatted": "13 minutes"
+    "startedAt": "2020-02-21T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 86400000,
+    "timeToCompleteFormatted": "1 day"
   },
   {
     "title": "Sapiens",
@@ -837,10 +837,10 @@
     "issueNumber": 10,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2021-02-14T16:29:26.000Z",
-    "completedAt": "2021-02-14T16:42:54.000Z",
-    "timeToComplete": 808000,
-    "timeToCompleteFormatted": "13 minutes"
+    "startedAt": "2020-03-01T00:00:00.000Z",
+    "completedAt": "2020-02-23T00:00:00.000Z",
+    "timeToComplete": -604800000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "Lying",
@@ -869,9 +869,9 @@
     "issueNumber": 9,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2020-08-05T00:00:00.000Z",
-    "completedAt": "2020-09-10T00:00:00.000Z",
-    "timeToComplete": 3110400000,
-    "timeToCompleteFormatted": "1 month"
+    "startedAt": "2020-09-10T00:00:00.000Z",
+    "completedAt": "2020-08-30T00:00:00.000Z",
+    "timeToComplete": -950400000,
+    "timeToCompleteFormatted": "1 week"
   }
 ]
