@@ -59,8 +59,11 @@
     },
     "issueNumber": 40,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-01-20T04:26:41.000Z"
+    "state": "completed",
+    "startedAt": "2022-02-20T00:00:00.000Z",
+    "completedAt": "2022-02-24T00:00:00.000Z",
+    "timeToComplete": 345600000,
+    "timeToCompleteFormatted": "4 days"
   },
   {
     "title": "The Tipping Point",
