@@ -25,8 +25,11 @@
     },
     "issueNumber": 41,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-04-25T05:58:39.000Z"
+    "state": "completed",
+    "startedAt": "2022-04-25T05:58:39.000Z",
+    "completedAt": "2022-07-04T07:33:46.000Z",
+    "timeToComplete": 6053707000,
+    "timeToCompleteFormatted": "2 months"
   },
   {
     "title": "The One Minute Manager",
