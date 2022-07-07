@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Checklist Manifesto",
+    "authors": [
+      "Atul Gawande"
+    ],
+    "publisher": "Metropolitan Books",
+    "publishedDate": "2010-04-01",
+    "description": "The New York Times bestselling author of Being Mortal and Complications reveals the surprising power of the ordinary checklist We live in a world of great and increasing complexity, where even the most expert professionals struggle to master the tasks they face. Longer training, ever more advanced technologies—neither seems to prevent grievous errors. But in a hopeful turn, acclaimed surgeon and writer Atul Gawande finds a remedy in the humblest and simplest of techniques: the checklist. First introduced decades ago by the U.S. Air Force, checklists have enabled pilots to fly aircraft of mind-boggling sophistication. Now innovative checklists are being adopted in hospitals around the world, helping doctors and nurses respond to everything from flu epidemics to avalanches. Even in the immensely complex world of surgery, a simple ninety-second variant has cut the rate of fatalities by more than a third. In riveting stories, Gawande takes us from Austria, where an emergency checklist saved a drowning victim who had spent half an hour underwater, to Michigan, where a cleanliness checklist in intensive care units virtually eliminated a type of deadly hospital infection. He explains how checklists actually work to prompt striking and immediate improvements. And he follows the checklist revolution into fields well beyond medicine, from disaster response to investment banking, skyscraper construction, and businesses of all kinds. An intellectual adventure in which lives are lost and saved and one simple idea makes a tremendous difference, The Checklist Manifesto is essential reading for anyone working to get things right.",
+    "image": "http://books.google.com/books/content?id=x3IcNujwHxcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 84,
+    "categories": [
+      "Medical"
+    ],
+    "pageCount": 224,
+    "isbn10": "1429953381",
+    "isbn13": "9781429953382",
+    "googleBooks": {
+      "id": "x3IcNujwHxcC",
+      "preview": "http://books.google.com/books?id=x3IcNujwHxcC&printsec=frontcover&dq=intitle:The+Checklist+Manifesto+Book+by+Atul+Gawande&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=x3IcNujwHxcC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=x3IcNujwHxcC"
+    },
+    "issueNumber": 42,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-07T20:46:58.000Z"
+  },
+  {
     "title": "Talking to Strangers",
     "authors": [
       "Malcolm Gladwell"
