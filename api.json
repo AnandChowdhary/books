@@ -1,5 +1,32 @@
 [
   {
+    "title": "Blitzscaling",
+    "authors": [
+      "Reid Hoffman",
+      "Chris Yeh"
+    ],
+    "publishedDate": "2018",
+    "description": "What entrepreneur or founder doesnt aspire to build the next Amazon, Facebook, or Airbnb? Yet those who actually manage to do so are exceedingly rare. So what separates the startups that get disrupted and disappear from the ones who grow to become global giants? The secret is blitzscaling: a set of techniques for scaling up at a dizzying pace that blows competitors out of the water. The objective of Blitzscaling is not to go from zero to one, but from one to one billion as quickly as possible.",
+    "image": "http://books.google.com/books/content?id=OyxyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 325,
+    "isbn10": "1524761419",
+    "isbn13": "9781524761417",
+    "googleBooks": {
+      "id": "OyxyDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=OyxyDwAAQBAJ&printsec=frontcover&dq=intitle:Blitzscaling+by+Reid+Hoffman+and+Chris+Yeh&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=OyxyDwAAQBAJ&dq=intitle:Blitzscaling+by+Reid+Hoffman+and+Chris+Yeh&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Blitzscaling.html?hl=&id=OyxyDwAAQBAJ"
+    },
+    "issueNumber": 43,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-19T05:54:09.000Z"
+  },
+  {
     "title": "The Checklist Manifesto",
     "authors": [
       "Atul Gawande"
