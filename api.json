@@ -1,5 +1,34 @@
 [
   {
+    "title": "Indistractable",
+    "authors": [
+      "Nir Eyal"
+    ],
+    "publisher": "BenBella Books",
+    "publishedDate": "2019-09-10",
+    "description": "\"Indistractable provides a framework that will deliver the focus you need to get results.\" —James Clear, author of Atomic Habits \"If you value your time, your focus, or your relationships, this book is essential reading. I'm putting these ideas into practice.\" —Jonathan Haidt, author of The Righteous Mind National Bestseller Winner of the Outstanding Works of Literature (OWL) Award Included in the Top 5 Best Personal Development Books of the Year by Audible Included in the Top 20 Best Business and Leadership Books of the Year by Amazon Featured in The Amazon Book Review Newsletter, January 2020 Goodreads Best Science & Technology of 2019 Finalist You sit down at your desk to work on an important project, but a notification on your phone interrupts your morning. Later, as you're about to get back to work, a colleague taps you on the shoulder to chat. At home, screens get in the way of quality time with your family. Another day goes by, and once again, your most important personal and professional goals are put on hold. What would be possible if you followed through on your best intentions? What could you accomplish if you could stay focused? What if you had the power to become \"indistractable?\" International bestselling author, former Stanford lecturer, and behavioral design expert, Nir Eyal, wrote Silicon Valley's handbook for making technology habit-forming. Five years after publishing Hooked, Eyal reveals distraction's Achilles' heel in his groundbreaking new book. In Indistractable, Eyal reveals the hidden psychology driving us to distraction. He describes why solving the problem is not as simple as swearing off our devices: Abstinence is impractical and often makes us want more. Eyal lays bare the secret of finally doing what you say you will do with a four-step, research-backed model. Indistractable reveals the key to getting the best out of technology, without letting it get the best of us. Inside, Eyal overturns conventional wisdom and reveals: • Why distraction at work is a symptom of a dysfunctional company culture—and how to fix it • What really drives human behavior and why \"time management is pain management\" • Why your relationships (and your sex life) depend on you becoming indistractable • How to raise indistractable children in an increasingly distracting world Empowering and optimistic, Indistractable provides practical, novel techniques to control your time and attention—helping you live the life you really want.",
+    "image": "http://books.google.com/books/content?id=GmmZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 290,
+    "isbn10": "1948836785",
+    "isbn13": "9781948836784",
+    "googleBooks": {
+      "id": "GmmZDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=GmmZDwAAQBAJ&printsec=frontcover&dq=intitle:Indistractable+by+Nir+Eyal&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=GmmZDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=GmmZDwAAQBAJ"
+    },
+    "issueNumber": 44,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-22T04:32:58.000Z"
+  },
+  {
     "title": "Blitzscaling",
     "authors": [
       "Reid Hoffman",
@@ -902,38 +931,6 @@
     "startedAt": "2020-03-01T00:00:00.000Z",
     "completedAt": "2020-02-23T00:00:00.000Z",
     "timeToComplete": -604800000,
-    "timeToCompleteFormatted": "1 week"
-  },
-  {
-    "title": "Lying",
-    "authors": [
-      "Sam Harris"
-    ],
-    "publisher": "Four Elephants Press",
-    "publishedDate": "2013-10-23",
-    "description": "As it was in Anna Karenina, Madame Bovary, and Othello, so it is in life. Most forms of private vice and public evil are kindled and sustained by lies. Acts of adultery and other personal betrayals, financial fraud, government corruption—even murder and genocide—generally require an additional moral defect: a willingness to lie. In Lying, best-selling author and neuroscientist Sam Harris argues that we can radically simplify our lives and improve society by merely telling the truth in situations where others often lie. He focuses on \"white\" lies—those lies we tell for the purpose of sparing people discomfort—for these are the lies that most often tempt us. And they tend to be the only lies that good people tell while imagining that they are being good in the process.",
-    "image": "http://books.google.com/books/content?id=aVz_BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 14,
-    "categories": [
-      "Philosophy"
-    ],
-    "pageCount": 108,
-    "isbn10": "1940051010",
-    "isbn13": "9781940051017",
-    "googleBooks": {
-      "id": "aVz_BgAAQBAJ",
-      "preview": "http://books.google.com/books?id=aVz_BgAAQBAJ&printsec=frontcover&dq=intitle:Lying+by+Sam+Harris&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=aVz_BgAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=aVz_BgAAQBAJ"
-    },
-    "issueNumber": 9,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2020-09-10T00:00:00.000Z",
-    "completedAt": "2020-08-30T00:00:00.000Z",
-    "timeToComplete": -950400000,
     "timeToCompleteFormatted": "1 week"
   }
 ]

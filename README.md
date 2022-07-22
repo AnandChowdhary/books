@@ -9,8 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (6)
+### ⌛ Currently reading (7)
 
+[![Book cover of Indistractable](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DGmmZDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/44 "Indistractable by Nir Eyal")
 [![Book cover of Blitzscaling](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DOyxyDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/43 "Blitzscaling by Reid Hoffman, Chris Yeh")
 [![Book cover of The Checklist Manifesto](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dx3IcNujwHxcC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/42 "The Checklist Manifesto by Atul Gawande")
 [![Book cover of The Tipping Point](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DyBDBEGBIUmgC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/39 "The Tipping Point by Malcolm Gladwell")
@@ -18,7 +19,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of How to Avoid a Climate Disaster](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DpHK0DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/37 "How to Avoid a Climate Disaster by Bill Gates")
 [![Book cover of What You Do Is Who You Are](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DPp-IDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/36 "What You Do Is Who You Are by Ben Horowitz")
 
-### ✅ Completed (24)
+### ✅ Completed (23)
 
 [![Book cover of Talking to Strangers](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DVnuGDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/41 "Talking to Strangers by Malcolm Gladwell completed in 2 months on July 2022")
 [![Book cover of The One Minute Manager](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhbQco6gUKm4C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/40 "The One Minute Manager by Kenneth Blanchard, Kenneth H. Blanchard, Spencer Johnson completed in 4 days on February 2022")
@@ -43,7 +44,6 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of The Innovators](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DaFapBAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/12 "The Innovators by Walter Isaacson completed in 3 months on February 2020")
 [![Book cover of Outliers](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D3NSImqqnxnkC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/11 "Outliers by Malcolm Gladwell completed in 1 day on February 2020")
 [![Book cover of Sapiens](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFmyBAwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/10 "Sapiens by Yuval Noah Harari completed in 1 week on February 2020")
-[![Book cover of Lying](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DaVz_BgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/9 "Lying by Sam Harris completed in 1 week on August 2020")
 
 <!--end:bookshelf-action-->
 
