@@ -1,3 +1,4 @@
+# There are overwritten dates to migrate my past reading
 overwrites:
   9:
     started: 2020-09-10
@@ -68,3 +69,6 @@ overwrites:
   40:
     started: 2022-02-20
     completed: 2022-02-24
+  45:
+    started: 2016-10-12
+    completed: 2016-10-22
