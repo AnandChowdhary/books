@@ -25,8 +25,11 @@
     },
     "issueNumber": 45,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-07-22T04:35:25.000Z"
+    "state": "completed",
+    "startedAt": "2016-10-12T00:00:00.000Z",
+    "completedAt": "2016-10-22T00:00:00.000Z",
+    "timeToComplete": 864000000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "Indistractable",

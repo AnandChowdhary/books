@@ -9,9 +9,8 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (8)
+### ⌛ Currently reading (7)
 
-[![Book cover of The 7 Habits of Highly Effective People Personal Workbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-Evbj5_0DcQC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/45 "The 7 Habits of Highly Effective People Personal Workbook by Stephen R. Covey")
 [![Book cover of Indistractable](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DGmmZDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/44 "Indistractable by Nir Eyal")
 [![Book cover of Blitzscaling](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DOyxyDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/43 "Blitzscaling by Reid Hoffman, Chris Yeh")
 [![Book cover of The Checklist Manifesto](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dx3IcNujwHxcC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/42 "The Checklist Manifesto by Atul Gawande")
@@ -20,8 +19,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of How to Avoid a Climate Disaster](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DpHK0DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/37 "How to Avoid a Climate Disaster by Bill Gates")
 [![Book cover of What You Do Is Who You Are](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DPp-IDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/36 "What You Do Is Who You Are by Ben Horowitz")
 
-### ✅ Completed (22)
+### ✅ Completed (23)
 
+[![Book cover of The 7 Habits of Highly Effective People Personal Workbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-Evbj5_0DcQC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/45 "The 7 Habits of Highly Effective People Personal Workbook by Stephen R. Covey completed in 1 week on October 2016")
 [![Book cover of Talking to Strangers](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DVnuGDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/41 "Talking to Strangers by Malcolm Gladwell completed in 2 months on July 2022")
 [![Book cover of The One Minute Manager](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhbQco6gUKm4C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/40 "The One Minute Manager by Kenneth Blanchard, Kenneth H. Blanchard, Spencer Johnson completed in 4 days on February 2022")
 [![Book cover of Getting Things Done](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DWXcHwzaUd4MC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/34 "Getting Things Done by David Allen completed in 10 months on April 2014")
