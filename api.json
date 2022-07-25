@@ -52,8 +52,11 @@
     },
     "issueNumber": 43,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-07-19T05:54:09.000Z"
+    "state": "completed",
+    "startedAt": "2022-07-19T05:54:09.000Z",
+    "completedAt": "2022-07-25T12:10:47.000Z",
+    "timeToComplete": 540998000,
+    "timeToCompleteFormatted": "6 days"
   },
   {
     "title": "The Checklist Manifesto",
