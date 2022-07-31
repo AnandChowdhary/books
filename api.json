@@ -25,8 +25,11 @@
     },
     "issueNumber": 44,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-07-22T04:32:58.000Z"
+    "state": "completed",
+    "startedAt": "2022-07-22T04:32:58.000Z",
+    "completedAt": "2022-07-31T15:09:57.000Z",
+    "timeToComplete": 815819000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "Blitzscaling",
