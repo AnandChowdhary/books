@@ -1,5 +1,28 @@
 [
   {
+    "title": "PSYCHOLOGY OF MONEY.",
+    "authors": [
+      "MORGAN. HOUSEL"
+    ],
+    "publishedDate": "2020",
+    "image": "https://tse2.mm.bing.net/th?q=PSYCHOLOGY%20OF%20MONEY.%20by%20function%20join()%20%7B%20%5Bnative%20code%5D%20%7D&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 2,
+    "isbn10": "9390166268",
+    "isbn13": "9789390166268",
+    "googleBooks": {
+      "id": "zO8AzgEACAAJ",
+      "preview": "http://books.google.com/books?id=zO8AzgEACAAJ&dq=intitle:The+Psychology+of+Money+by+Morgan+Housel&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=zO8AzgEACAAJ&dq=intitle:The+Psychology+of+Money+by+Morgan+Housel&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/PSYCHOLOGY_OF_MONEY.html?hl=&id=zO8AzgEACAAJ"
+    },
+    "issueNumber": 46,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-08-22T05:02:33.000Z"
+  },
+  {
     "title": "Indistractable",
     "authors": [
       "Nir Eyal"
@@ -302,38 +325,6 @@
     "completedAt": "2020-06-20T00:00:00.000Z",
     "timeToComplete": 2246400000,
     "timeToCompleteFormatted": "3 weeks"
-  },
-  {
-    "title": "Outliers",
-    "authors": [
-      "Malcolm Gladwell"
-    ],
-    "publisher": "Little, Brown",
-    "publishedDate": "2008-11-18",
-    "description": "Learn what sets high achievers apart -- from Bill Gates to the Beatles -- in this #1 bestseller from \"a singular talent\" (New York Times Book Review). In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different? His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band. Brilliant and entertaining, Outliers is a landmark work that will simultaneously delight and illuminate.",
-    "image": "http://books.google.com/books/content?id=3NSImqqnxnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 4284,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 320,
-    "isbn10": "0316040347",
-    "isbn13": "9780316040341",
-    "googleBooks": {
-      "id": "3NSImqqnxnkC",
-      "preview": "http://books.google.com/books?id=3NSImqqnxnkC&printsec=frontcover&dq=intitle:Outliers+by+Malcolm+Gladwell&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=3NSImqqnxnkC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=3NSImqqnxnkC"
-    },
-    "issueNumber": 11,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2020-02-21T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 86400000,
-    "timeToCompleteFormatted": "1 day"
   },
   {
     "title": "The Innovators",
