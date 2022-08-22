@@ -211,8 +211,11 @@
     },
     "issueNumber": 38,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-01-13T05:54:04.000Z"
+    "state": "completed",
+    "startedAt": "2022-01-13T05:54:04.000Z",
+    "completedAt": "2022-08-22T04:15:30.000Z",
+    "timeToComplete": 19088486000,
+    "timeToCompleteFormatted": "7 months"
   },
   {
     "title": "How to Avoid a Climate Disaster",
