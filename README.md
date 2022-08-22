@@ -11,13 +11,11 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (5)
+### ⌛ Currently reading (3)
 
-[![Book cover of How to Avoid a Climate Disaster](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DpHK0DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/47 "How to Avoid a Climate Disaster by Bill Gates")
 [![Book cover of PSYCHOLOGY OF MONEY.](<https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DPSYCHOLOGY%2520OF%2520MONEY.%2520by%2520function%2520join()%2520%257B%2520%255Bnative%2520code%255D%2520%257D%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain>)](https://github.com/AnandChowdhary/books/issues/46 "PSYCHOLOGY OF MONEY. by MORGAN. HOUSEL")
 [![Book cover of The Checklist Manifesto](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dx3IcNujwHxcC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/42 "The Checklist Manifesto by Atul Gawande")
 [![Book cover of The Tipping Point](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DyBDBEGBIUmgC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/39 "The Tipping Point by Malcolm Gladwell")
-[![Book cover of What You Do Is Who You Are](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DPp-IDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/36 "What You Do Is Who You Are by Ben Horowitz")
 
 ### ✅ Completed (25)
 
@@ -46,6 +44,11 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of Lean In](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dy9_mxZLYiiMC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/29 "Lean In by Sheryl Sandberg completed in 7 months on June 2014")
 [![Book cover of Blink](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DVKGbb1hg8JAC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/28 "Blink by Malcolm Gladwell completed in 11 months on April 2014")
 [![Book cover of Steve Jobs](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D8U2oAAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/26 "Steve Jobs by Walter Isaacson completed in 1 month on January 2013")
+
+### ⏭️ Want to Read (2)
+
+[![Book cover of What I Saw at the Revolution](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFf8oVIxKcSoC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/48 "What I Saw at the Revolution by Peggy Noonan completed in undefined on Invalid Date")
+[![Book cover of How to Avoid a Climate Disaster](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DpHK0DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/47 "How to Avoid a Climate Disaster by Bill Gates completed in undefined on Invalid Date")
 
 <!--end:bookshelf-action-->
 
