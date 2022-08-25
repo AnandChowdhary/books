@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Psychology of Money",
+    "authors": [
+      "Morgan Housel"
+    ],
+    "publisher": "Harriman House Limited",
+    "publishedDate": "2020-09-08",
+    "description": "Doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. Money—investing, personal finance, and business decisions—is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In The Psychology of Money, award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important topics.",
+    "image": "http://books.google.com/books/content?id=TnrrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 2,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 209,
+    "isbn10": "085719769X",
+    "isbn13": "9780857197696",
+    "googleBooks": {
+      "id": "TnrrDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=TnrrDwAAQBAJ&printsec=frontcover&dq=intitle:The+Psychology+of+Money:+Timeless+Lessons+on+Wealth,+Greed,+and+Happiness+by+Morgan+Housel&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=TnrrDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=TnrrDwAAQBAJ"
+    },
+    "issueNumber": 50,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-08-25T11:37:27.000Z"
+  },
+  {
     "title": "What You Do Is Who You Are",
     "authors": [
       "Ben Horowitz"
@@ -329,36 +358,6 @@
     "completedAt": "2020-06-20T00:00:00.000Z",
     "timeToComplete": 2246400000,
     "timeToCompleteFormatted": "3 weeks"
-  },
-  {
-    "title": "The Innovators",
-    "authors": [
-      "Walter Isaacson"
-    ],
-    "publisher": "Simon and Schuster",
-    "publishedDate": "2014-10-07",
-    "description": "A revelatory history of the people who created the computer and the internet discusses the process through which innovation happens in the modern world, citing the pivotal contributions of such figures as programming pioneer Ada Lovelace. By the author of Steve Jobs. 500,000 first printing.",
-    "image": "http://books.google.com/books/content?id=aFapBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 542,
-    "isbn10": "147670869X",
-    "isbn13": "9781476708690",
-    "googleBooks": {
-      "id": "aFapBAAAQBAJ",
-      "preview": "http://books.google.com/books?id=aFapBAAAQBAJ&printsec=frontcover&dq=intitle:The+Innovators+by+Walter+Isaacson&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=aFapBAAAQBAJ&dq=intitle:The+Innovators+by+Walter+Isaacson&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Innovators.html?hl=&id=aFapBAAAQBAJ"
-    },
-    "issueNumber": 12,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2019-11-13T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 8726400000,
-    "timeToCompleteFormatted": "3 months"
   },
   {
     "title": "Zero to One",
