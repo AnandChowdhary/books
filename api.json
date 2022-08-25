@@ -87,29 +87,6 @@
     "startedAt": "2022-08-22T08:10:57.000Z"
   },
   {
-    "title": "PSYCHOLOGY OF MONEY.",
-    "authors": [
-      "MORGAN. HOUSEL"
-    ],
-    "publishedDate": "2020",
-    "image": "https://tse2.mm.bing.net/th?q=PSYCHOLOGY%20OF%20MONEY.%20by%20morgan+housel&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
-    "language": "en",
-    "averageRating": 5,
-    "ratingsCount": 2,
-    "isbn10": "9390166268",
-    "isbn13": "9789390166268",
-    "googleBooks": {
-      "id": "zO8AzgEACAAJ",
-      "preview": "http://books.google.com/books?id=zO8AzgEACAAJ&dq=intitle:The+Psychology+of+Money+by+Morgan+Housel&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=zO8AzgEACAAJ&dq=intitle:The+Psychology+of+Money+by+Morgan+Housel&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/PSYCHOLOGY_OF_MONEY.html?hl=&id=zO8AzgEACAAJ"
-    },
-    "issueNumber": 46,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-08-22T05:02:33.000Z"
-  },
-  {
     "title": "Indistractable",
     "authors": [
       "Nir Eyal"
@@ -358,6 +335,36 @@
     "completedAt": "2020-06-20T00:00:00.000Z",
     "timeToComplete": 2246400000,
     "timeToCompleteFormatted": "3 weeks"
+  },
+  {
+    "title": "The Innovators",
+    "authors": [
+      "Walter Isaacson"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2014-10-07",
+    "description": "A revelatory history of the people who created the computer and the internet discusses the process through which innovation happens in the modern world, citing the pivotal contributions of such figures as programming pioneer Ada Lovelace. By the author of Steve Jobs. 500,000 first printing.",
+    "image": "http://books.google.com/books/content?id=aFapBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 542,
+    "isbn10": "147670869X",
+    "isbn13": "9781476708690",
+    "googleBooks": {
+      "id": "aFapBAAAQBAJ",
+      "preview": "http://books.google.com/books?id=aFapBAAAQBAJ&printsec=frontcover&dq=intitle:The+Innovators+by+Walter+Isaacson&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=aFapBAAAQBAJ&dq=intitle:The+Innovators+by+Walter+Isaacson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Innovators.html?hl=&id=aFapBAAAQBAJ"
+    },
+    "issueNumber": 12,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2019-11-13T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 8726400000,
+    "timeToCompleteFormatted": "3 months"
   },
   {
     "title": "Zero to One",
