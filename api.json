@@ -1,5 +1,34 @@
 [
   {
+    "title": "Bad Feminist",
+    "authors": [
+      "Roxane Gay"
+    ],
+    "publisher": "Harper Perennial",
+    "publishedDate": "2014-08-05",
+    "description": "From the author of Hunger: A Memoir of (My) Body, the New York Times Bestseller and Best Book of the Year at NPR, the Boston Globe, Newsweek, and many more A collection of essays spanning politics, criticism, and feminism from one of the most-watched young cultural observers of her generation, Roxane Gay. “Pink is my favorite color. I used to say my favorite color was black to be cool, but it is pink—all shades of pink. If I have an accessory, it is probably pink. I read Vogue, and I’m not doing it ironically, though it might seem that way. I once live-tweeted the September issue.” In these funny and insightful essays, Roxane Gay takes us through the journey of her evolution as a woman (Sweet Valley High) of color (The Help) while also taking readers on a ride through culture of the last few years (Girls, Django in Chains) and commenting on the state of feminism today (abortion, Chris Brown). The portrait that emerges is not only one of an incredibly insightful woman continually growing to understand herself and our society, but also one of our culture. Bad Feminist is a sharp, funny, and spot-on look at the ways in which the culture we consume becomes who we are, and an inspiring call-to-arms of all the ways we still need to do better, coming from one of our most interesting and important cultural critics.",
+    "image": "http://books.google.com/books/content?id=Gd6CvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 53,
+    "categories": [
+      "Social Science"
+    ],
+    "pageCount": 336,
+    "isbn10": "0062282719",
+    "isbn13": "9780062282712",
+    "googleBooks": {
+      "id": "Gd6CvgEACAAJ",
+      "preview": "http://books.google.com/books?id=Gd6CvgEACAAJ&dq=intitle:Bad+Feminist+by+Roxane+Gay&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Gd6CvgEACAAJ&dq=intitle:Bad+Feminist+by+Roxane+Gay&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Bad_Feminist.html?hl=&id=Gd6CvgEACAAJ"
+    },
+    "issueNumber": 51,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-09-22T18:47:24.000Z"
+  },
+  {
     "title": "The Psychology of Money",
     "authors": [
       "Morgan Housel"
@@ -335,36 +364,6 @@
     "completedAt": "2020-06-20T00:00:00.000Z",
     "timeToComplete": 2246400000,
     "timeToCompleteFormatted": "3 weeks"
-  },
-  {
-    "title": "The Innovators",
-    "authors": [
-      "Walter Isaacson"
-    ],
-    "publisher": "Simon and Schuster",
-    "publishedDate": "2014-10-07",
-    "description": "A revelatory history of the people who created the computer and the internet discusses the process through which innovation happens in the modern world, citing the pivotal contributions of such figures as programming pioneer Ada Lovelace. By the author of Steve Jobs. 500,000 first printing.",
-    "image": "http://books.google.com/books/content?id=aFapBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 542,
-    "isbn10": "147670869X",
-    "isbn13": "9781476708690",
-    "googleBooks": {
-      "id": "aFapBAAAQBAJ",
-      "preview": "http://books.google.com/books?id=aFapBAAAQBAJ&printsec=frontcover&dq=intitle:The+Innovators+by+Walter+Isaacson&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=aFapBAAAQBAJ&dq=intitle:The+Innovators+by+Walter+Isaacson&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Innovators.html?hl=&id=aFapBAAAQBAJ"
-    },
-    "issueNumber": 12,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2019-11-13T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 8726400000,
-    "timeToCompleteFormatted": "3 months"
   },
   {
     "title": "Zero to One",
