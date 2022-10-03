@@ -1,5 +1,31 @@
 [
   {
+    "title": "Measure What Matters",
+    "authors": [
+      "John Doerr"
+    ],
+    "publisher": "Portfolio",
+    "publishedDate": "2018-04",
+    "description": "Measure What Matters is a revolutionary approach to business that has been adopted by some of Silicon Valley's most successful startups. It is a movement that is behind the explosive growth of Intel, Google, Amazon and Uber and many more. Measure What Mattersis about using Objectives and Key Results (or OKRs) to make tough choices on business priorities. It's about communicating these objectives throughout the company from entry level to CEO and it's about collecting timely, relevant data to track progress - to measure what matters. When Google first started out, its founders had amazing technology, entrepreneurial energy and sky-high ambition but no business plan. John Doerr taught them a proven approach to operating excellence that has helped them achieve greatness. He has since shared OKRs with more than fifty companies with outstanding success. In this book, Larry Page, Bill Gates, Bono, Sheryl Sandberg and many more explain how OKRs have helped them exceed all expectations and run their organisations with focus and agility.",
+    "image": "http://books.google.com/books/content?id=iOzCswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "pageCount": 352,
+    "isbn10": "024134848X",
+    "isbn13": "9780241348482",
+    "googleBooks": {
+      "id": "iOzCswEACAAJ",
+      "preview": "http://books.google.com/books?id=iOzCswEACAAJ&dq=intitle:Measure+What+Matters+by+John+Doerr&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=iOzCswEACAAJ&dq=intitle:Measure+What+Matters+by+John+Doerr&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Measure_What_Matters.html?hl=&id=iOzCswEACAAJ"
+    },
+    "issueNumber": 54,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-10-03T14:16:04.000Z"
+  },
+  {
     "title": "Can't Hurt Me",
     "authors": [
       "David Goggins"
@@ -446,38 +472,6 @@
     "completedAt": "2019-08-30T00:00:00.000Z",
     "timeToComplete": 7776000000,
     "timeToCompleteFormatted": "2 months"
-  },
-  {
-    "title": "21 Lessons for the 21st Century",
-    "authors": [
-      "Yuval Noah Harari"
-    ],
-    "publisher": "Random House",
-    "publishedDate": "2019-01-29",
-    "description": "#1 NEW YORK TIMES BESTSELLER • In Sapiens, he explored our past. In Homo Deus, he looked to our future. Now, one of the most innovative thinkers on the planet turns to the present to make sense of today’s most pressing issues. “Fascinating . . . a crucial global conversation about how to take on the problems of the twenty-first century.”—Bill Gates, The New York Times Book Review NAMED ONE OF THE BEST BOOKS OF THE YEAR BY FINANCIAL TIMES AND PAMELA PAUL, KQED How do computers and robots change the meaning of being human? How do we deal with the epidemic of fake news? Are nations and religions still relevant? What should we teach our children? Yuval Noah Harari’s 21 Lessons for the 21st Century is a probing and visionary investigation into today’s most urgent issues as we move into the uncharted territory of the future. As technology advances faster than our understanding of it, hacking becomes a tactic of war, and the world feels more polarized than ever, Harari addresses the challenge of navigating life in the face of constant and disorienting change and raises the important questions we need to ask ourselves in order to survive. In twenty-one accessible chapters that are both provocative and profound, Harari builds on the ideas explored in his previous books, untangling political, technological, social, and existential issues and offering advice on how to prepare for a very different future from the world we now live in: How can we retain freedom of choice when Big Data is watching us? What will the future workforce look like, and how should we ready ourselves for it? How should we deal with the threat of terrorism? Why is liberal democracy in crisis? Harari’s unique ability to make sense of where we have come from and where we are going has captured the imaginations of millions of readers. Here he invites us to consider values, meaning, and personal engagement in a world full of noise and uncertainty. When we are deluged with irrelevant information, clarity is power. Presenting complex contemporary challenges clearly and accessibly, 21 Lessons for the 21st Century is essential reading. “If there were such a thing as a required instruction manual for politicians and thought leaders, Israeli historian Yuval Noah Harari’s 21 Lessons for the 21st Century would deserve serious consideration. In this collection of provocative essays, Harari . . . tackles a daunting array of issues, endeavoring to answer a persistent question: ‘What is happening in the world today, and what is the deep meaning of these events?’”—BookPage (top pick)",
-    "image": "http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 22,
-    "categories": [
-      "History"
-    ],
-    "pageCount": 400,
-    "isbn10": "0593132815",
-    "isbn13": "9780593132814",
-    "googleBooks": {
-      "id": "MSKEDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=MSKEDwAAQBAJ&printsec=frontcover&dq=intitle:21+Lessons+for+the+21st+Century+by+Yuval+Noah+Harari&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=MSKEDwAAQBAJ&dq=intitle:21+Lessons+for+the+21st+Century+by+Yuval+Noah+Harari&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/21_Lessons_for_the_21st_Century.html?hl=&id=MSKEDwAAQBAJ"
-    },
-    "issueNumber": 15,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2019-01-01T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 36028800000,
-    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "1984",
