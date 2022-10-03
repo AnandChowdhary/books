@@ -1,5 +1,29 @@
 [
   {
+    "title": "Open Source for Business",
+    "authors": [
+      "Heather Meeker"
+    ],
+    "publisher": "Createspace Independent Publishing Platform",
+    "publishedDate": "2017-04-04",
+    "description": "Heather Meeker's Open Source for Business is a practical, readable guide to help businesspeople, engineers, and lawyers understand open source software licensing. Based on the author's twenty years as an attorney working at the crossroads of intellectual property and technology, this guide explains the legal and technical principles behind open source licensing so you can make the right decisions for your business. It offers tips on using open source, contributing to open source projects, and releasing your own open source software. You'll also get access to quick-reference tables on the major open source licenses, plus forms and checklists you can use to promote compliance. In this book, you will learn . . . * Why open source is not a \"virus\" * What the GPL is and how to handle it * When and how to conduct open source audits * What a user-friendly open source policy looks like * How to avoid and respond to open source enforcement claims * How to use open source to fight patent infringement claims * How to manage trademarks for open source products",
+    "image": "http://books.google.com/books/content?id=aKHGswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "pageCount": 284,
+    "isbn10": "1544737645",
+    "isbn13": "9781544737645",
+    "googleBooks": {
+      "id": "aKHGswEACAAJ",
+      "preview": "http://books.google.com/books?id=aKHGswEACAAJ&dq=intitle:Open+(Source)+for+Business+by+Heather+Meeker&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=aKHGswEACAAJ&dq=intitle:Open+(Source)+for+Business+by+Heather+Meeker&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Open_Source_for_Business.html?hl=&id=aKHGswEACAAJ"
+    },
+    "issueNumber": 52,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-10-03T14:15:05.000Z"
+  },
+  {
     "title": "Bad Feminist",
     "authors": [
       "Roxane Gay"
@@ -397,38 +421,6 @@
     "completedAt": "2019-08-30T00:00:00.000Z",
     "timeToComplete": 7776000000,
     "timeToCompleteFormatted": "2 months"
-  },
-  {
-    "title": "Rich Dad, Poor Dad",
-    "authors": [
-      "Robert T. Kiyosaki"
-    ],
-    "publisher": "Scribl",
-    "publishedDate": "2019-05-25",
-    "description": "In Rich Dad Poor Dad, the #1 Personal Finance book of all time, Robert Kiyosaki shares the story of his two dad: his real father, whom he calls his poor dad,’ and the father of his best friend, the man who became his mentor and his rich dad.’ One man was well educated and an employee all his life, the other’s education was street smarts” over traditional classroom education and he took the path of entrepreneurship a road that led him to become one of the wealthiest men in Hawaii. Robert’s poor dad struggled financially all his life, and these two dads these very different points of view of money, investing, and employment shaped Robert’s thinking about money.Robert has challenged and changed the way tens of millions of people, around the world, think about money and investing and he has become a global advocate for financial education and the path to financial freedom. Rich Dad Poor Dad (and the Rich Dad series it spawned) has sold over 36 million copies in English and translated editions around the world.Rich Dad Poor Dad will explode the myth that you need to earn a high income to become rich challenge the belief that your house is an asset show parents why they can’t rely on the school system to teach their kidsabout money define, once and for all, an asset and a liability explain the difference between good debt and bad debt teach you to see the world of money from different perspectives discuss the shift in mindset that can put you on the road to financial freedom",
-    "image": "http://books.google.com/books/content?id=Cx6aDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 85,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 104,
-    "isbn10": "1365108104",
-    "isbn13": "9781365108105",
-    "googleBooks": {
-      "id": "Cx6aDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=Cx6aDwAAQBAJ&printsec=frontcover&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=Cx6aDwAAQBAJ&dq=intitle:Rich+Dad,+Poor+Dad+by+Robert+Kiyosaki&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Rich_Dad_Poor_Dad.html?hl=&id=Cx6aDwAAQBAJ"
-    },
-    "issueNumber": 13,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2019-03-25T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 28857600000,
-    "timeToCompleteFormatted": "10 months"
   },
   {
     "title": "Inglorious Empire",
