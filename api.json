@@ -1,5 +1,30 @@
 [
   {
+    "title": "Can't Hurt Me",
+    "authors": [
+      "David Goggins"
+    ],
+    "publishedDate": "2020-03-10",
+    "description": "For David Goggins, childhood was a nightmare - poverty, prejudice, and physical abuse colored his days and haunted his nights. But through self-discipline, mental toughness, and hard work, Goggins transformed himself from a depressed, overweight young man with no future into a U.S. Armed Forces icon and one of the world's top endurance athletes. The only man in history to complete elite training as a Navy SEAL, Army Ranger, and Air Force Tactical Air Controller, he went on to set records in numerous endurance events, inspiring Outside magazine to name him The Fittest (Real) Man in America. In this curse-word-free edition of Can't Hurt Me, he shares his astonishing life story and reveals that most of us tap into only 40% of our capabilities. Goggins calls this The 40% Rule, and his story illuminates a path that anyone can follow to push past pain, demolish fear, and reach their full potential.",
+    "image": "http://books.google.com/books/content?id=i-VtzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "pageCount": 364,
+    "isbn10": "1544507852",
+    "isbn13": "9781544507859",
+    "googleBooks": {
+      "id": "i-VtzQEACAAJ",
+      "preview": "http://books.google.com/books?id=i-VtzQEACAAJ&dq=intitle:Can%27t+Hurt+Me+by+David+Goggins&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=i-VtzQEACAAJ&dq=intitle:Can%27t+Hurt+Me+by+David+Goggins&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Can_t_Hurt_Me.html?hl=&id=i-VtzQEACAAJ"
+    },
+    "issueNumber": 53,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-10-03T14:15:35.000Z"
+  },
+  {
     "title": "Open Source for Business",
     "authors": [
       "Heather Meeker"
@@ -421,38 +446,6 @@
     "completedAt": "2019-08-30T00:00:00.000Z",
     "timeToComplete": 7776000000,
     "timeToCompleteFormatted": "2 months"
-  },
-  {
-    "title": "Inglorious Empire",
-    "authors": [
-      "Shashi Tharoor"
-    ],
-    "publisher": "Penguin UK",
-    "publishedDate": "2018-02-01",
-    "description": "The Sunday Times Top 10 bestseller on India's experience of British colonialism, by the internationally-acclaimed author and diplomat Shashi Tharoor 'Tharoor's impassioned polemic slices straight to the heart of the darkness that drives all empires ... laying bare the grim, and high, cost of the British Empire for its former subjects. An essential read' Financial Times In the eighteenth century, India's share of the world economy was as large as Europe's. By 1947, after two centuries of British rule, it had decreased six-fold. The Empire blew rebels from cannon, massacred unarmed protesters, entrenched institutionalised racism, and caused millions to die from starvation. British imperialism justified itself as enlightened despotism for the benefit of the governed, but Shashi Tharoor takes demolishes this position, demonstrating how every supposed imperial 'gift' - from the railways to the rule of law - was designed in Britain's interests alone. He goes on to show how Britain's Industrial Revolution was founded on India's deindustrialisation, and the destruction of its textile industry. In this bold and incisive reassessment of colonialism, Tharoor exposes to devastating effect the inglorious reality of Britain's stained Indian legacy.",
-    "image": "http://books.google.com/books/content?id=ZWwwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 5,
-    "ratingsCount": 2,
-    "categories": [
-      "Political Science"
-    ],
-    "pageCount": 256,
-    "isbn10": "0241331455",
-    "isbn13": "9780241331453",
-    "googleBooks": {
-      "id": "ZWwwDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=ZWwwDwAAQBAJ&dq=intitle:Inglorious+Empire+by+Shashi+Tharoor&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=ZWwwDwAAQBAJ&dq=intitle:Inglorious+Empire+by+Shashi+Tharoor&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Inglorious_Empire.html?hl=&id=ZWwwDwAAQBAJ"
-    },
-    "issueNumber": 14,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2019-02-06T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 32918400000,
-    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "21 Lessons for the 21st Century",
