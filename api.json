@@ -129,8 +129,11 @@
     },
     "issueNumber": 50,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-08-25T11:37:27.000Z"
+    "state": "completed",
+    "startedAt": "2022-08-25T11:37:27.000Z",
+    "completedAt": "2022-12-11T18:30:49.000Z",
+    "timeToComplete": 9356002000,
+    "timeToCompleteFormatted": "3 months"
   },
   {
     "title": "What You Do Is Who You Are",
