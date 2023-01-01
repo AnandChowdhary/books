@@ -1,5 +1,34 @@
 [
   {
+    "title": "Girls Just Wanna Have Funds",
+    "authors": [
+      "Camilla Falkenberg",
+      "Emma Due Bitz",
+      "Anna-Sophie Hartvigsen"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2023-01-17",
+    "description": "Start your journey to financial success with Female Invest's guide for safe, smart, and sustainable investing. This is an empowering and uplifting money manifesto, aiming to change the tides of financial power. Are you one of the 68% of women worldwide earning less than a man doing the same job? Then you need to make your money work harder, starting now. In Girls Just Want to Have Funds, the trio of founders behind the global movement Female Invest bring you an empowering five-step guide with a straight-talking message: you don't have to be an expert or a millionaire to make money. Simply equip yourself with the easy-to-follow golden rules and tools of three finance gurus to find your confidence and open a whole new world of opportunities. Whether you want to master the art of setting realistic goals, demystify financial jargon and markets, gain independence with a f*ck you fund, or finally get excited about your financial future, find all the answers you need and more with this comprehensive guide. Even if you only have a $1 savings fund to begin with, you too can have a rewarding, limitless life by investing in yourself and this book.",
+    "image": "http://books.google.com/books/content?id=uYmAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 301,
+    "isbn10": "0744083052",
+    "isbn13": "9780744083057",
+    "googleBooks": {
+      "id": "uYmAEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=uYmAEAAAQBAJ&printsec=frontcover&dq=intitle:Girls+Just+Wanna+Have+Funds+by+Anna-Sophie+Hartvigsen,+Camilla+Falkenberg,+Emma+Due+Bitz&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=uYmAEAAAQBAJ&dq=intitle:Girls+Just+Wanna+Have+Funds+by+Anna-Sophie+Hartvigsen,+Camilla+Falkenberg,+Emma+Due+Bitz&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Girls_Just_Wanna_Have_Funds.html?hl=&id=uYmAEAAAQBAJ"
+    },
+    "issueNumber": 56,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-01-01T11:58:06.000Z"
+  },
+  {
     "title": "Humble Pi",
     "authors": [
       "Matt Parker"
@@ -502,38 +531,6 @@
     "completedAt": "2019-08-30T00:00:00.000Z",
     "timeToComplete": 7776000000,
     "timeToCompleteFormatted": "2 months"
-  },
-  {
-    "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
-    "authors": [
-      "Richard P. Feynman"
-    ],
-    "publisher": "W. W. Norton & Company",
-    "publishedDate": "2018-02-06",
-    "description": "One of the most famous science books of our time, the phenomenal national bestseller that \"buzzes with energy, anecdote and life. It almost makes you want to become a physicist\" (Science Digest). Richard P. Feynman, winner of the Nobel Prize in physics, thrived on outrageous adventures. In this lively work that “can shatter the stereotype of the stuffy scientist” (Detroit Free Press), Feynman recounts his experiences trading ideas on atomic physics with Einstein and cracking the uncrackable safes guarding the most deeply held nuclear secrets—and much more of an eyebrow-raising nature. In his stories, Feynman’s life shines through in all its eccentric glory—a combustible mixture of high intelligence, unlimited curiosity, and raging chutzpah. Included for this edition is a new introduction by Bill Gates.",
-    "image": "http://books.google.com/books/content?id=_gA_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 3660,
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 352,
-    "isbn10": "0393355683",
-    "isbn13": "9780393355680",
-    "googleBooks": {
-      "id": "_gA_DwAAQBAJ",
-      "preview": "http://books.google.com/books?id=_gA_DwAAQBAJ&printsec=frontcover&dq=intitle:Surely+You%27re+Joking,+Mr.+Feynman!+by+Richard+Feynman&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=_gA_DwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=_gA_DwAAQBAJ"
-    },
-    "issueNumber": 17,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2016-11-15T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 103161600000,
-    "timeToCompleteFormatted": "3 years"
   },
   {
     "title": "The 7 Habits of Highly Effective People Personal Workbook",
