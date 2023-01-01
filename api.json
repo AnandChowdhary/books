@@ -1,5 +1,32 @@
 [
   {
+    "title": "Humble Pi",
+    "authors": [
+      "Matt Parker"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2021-01-19",
+    "description": "#1 INTERNATIONAL BESTSELLER AN ADAM SAVAGE BOOK CLUB PICK The book-length answer to anyone who ever put their hand up in math class and asked, “When am I ever going to use this in the real world?” “Fun, informative, and relentlessly entertaining, Humble Pi is a charming and very readable guide to some of humanity's all-time greatest miscalculations—that also gives you permission to feel a little better about some of your own mistakes.” —Ryan North, author of How to Invent Everything Our whole world is built on math, from the code running a website to the equations enabling the design of skyscrapers and bridges. Most of the time this math works quietly behind the scenes . . . until it doesn’t. All sorts of seemingly innocuous mathematical mistakes can have significant consequences. Math is easy to ignore until a misplaced decimal point upends the stock market, a unit conversion error causes a plane to crash, or someone divides by zero and stalls a battleship in the middle of the ocean. Exploring and explaining a litany of glitches, near misses, and mathematical mishaps involving the internet, big data, elections, street signs, lotteries, the Roman Empire, and an Olympic team, Matt Parker uncovers the bizarre ways math trips us up, and what this reveals about its essential place in our world. Getting it wrong has never been more fun.",
+    "image": "http://books.google.com/books/content?id=heUlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Mathematics"
+    ],
+    "pageCount": 337,
+    "isbn10": "0593084691",
+    "isbn13": "9780593084694",
+    "googleBooks": {
+      "id": "heUlEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=heUlEAAAQBAJ&printsec=frontcover&dq=intitle:Humble+Pi+by+Matt+Parker&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=heUlEAAAQBAJ&dq=intitle:Humble+Pi+by+Matt+Parker&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Humble_Pi.html?hl=&id=heUlEAAAQBAJ"
+    },
+    "issueNumber": 55,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-01-01T11:57:41.000Z"
+  },
+  {
     "title": "Measure What Matters",
     "authors": [
       "John Doerr"
@@ -475,38 +502,6 @@
     "completedAt": "2019-08-30T00:00:00.000Z",
     "timeToComplete": 7776000000,
     "timeToCompleteFormatted": "2 months"
-  },
-  {
-    "title": "1984",
-    "authors": [
-      "George Orwell"
-    ],
-    "publisher": "Univ. Press of Mississippi",
-    "publishedDate": "1977",
-    "description": "Portrays life in a future time when a totalitarian government watches over all citizens and directs all activities.",
-    "image": "http://books.google.com/books/content?id=yxv1LK5gyV4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 2320,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 328,
-    "isbn10": "0451524934",
-    "isbn13": "9780451524935",
-    "googleBooks": {
-      "id": "yxv1LK5gyV4C",
-      "preview": "http://books.google.com/books?id=yxv1LK5gyV4C&dq=intitle:1984+by+George+Orwell&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=yxv1LK5gyV4C&dq=intitle:1984+by+George+Orwell&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/1984.html?hl=&id=yxv1LK5gyV4C"
-    },
-    "issueNumber": 16,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2017-05-21T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 87004800000,
-    "timeToCompleteFormatted": "2 years"
   },
   {
     "title": "\"Surely You're Joking, Mr. Feynman!\": Adventures of a Curious Character",
