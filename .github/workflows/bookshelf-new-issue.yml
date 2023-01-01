@@ -18,3 +18,9 @@ jobs:
           command: "onNewIssue"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Dispatch AnandChowdhary/everything update
+        uses: benc-uk/workflow-dispatch@v1.2.2
+        with:
+          repo: AnandChowdhary/everything
+          workflow: api.yml
+          token: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}
