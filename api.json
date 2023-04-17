@@ -1,5 +1,34 @@
 [
   {
+    "title": "Sum",
+    "authors": [
+      "David Eagleman"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2009-02-10",
+    "description": "At once funny, wistful and unsettling, Sum is a dazzling exploration of unexpected afterlives—each presented as a vignette that offers a stunning lens through which to see ourselves in the here and now. In one afterlife, you may find that God is the size of a microbe and unaware of your existence. In another version, you work as a background character in other people’s dreams. Or you may find that God is a married couple, or that the universe is running backward, or that you are forced to live out your afterlife with annoying versions of who you could have been. With a probing imagination and deep understanding of the human condition, acclaimed neuroscientist David Eagleman offers wonderfully imagined tales that shine a brilliant light on the here and now.",
+    "image": "http://books.google.com/books/content?id=-cjWiI8DEywC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 54,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 128,
+    "isbn10": "0307378020",
+    "isbn13": "9780307378026",
+    "googleBooks": {
+      "id": "-cjWiI8DEywC",
+      "preview": "http://books.google.com/books?id=-cjWiI8DEywC&printsec=frontcover&dq=intitle:Sum+by+Stephen+Fry&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=-cjWiI8DEywC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=-cjWiI8DEywC"
+    },
+    "issueNumber": 59,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-04-17T15:35:21.000Z"
+  },
+  {
     "title": "Girls Just Wanna Have Funds",
     "authors": [
       "Camilla Falkenberg",
@@ -588,38 +617,6 @@
       "canonical": "https://books.google.com/books/about/The_Design_of_Everyday_Things.html?hl=&id=heCtnQEACAAJ"
     },
     "issueNumber": 20,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2016-10-03T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 106876800000,
-    "timeToCompleteFormatted": "3 years"
-  },
-  {
-    "title": "How To Win Friends and Influence People",
-    "authors": [
-      "Dale Carnegie"
-    ],
-    "publisher": "Simon and Schuster",
-    "publishedDate": "2010-08-24",
-    "description": "You can go after the job you want—and get it! You can take the job you have—and improve it! You can take any situation—and make it work for you! Dale Carnegie’s rock-solid, time-tested advice has carried countless people up the ladder of success in their business and personal lives. One of the most groundbreaking and timeless bestsellers of all time, How to Win Friends & Influence People will teach you: -Six ways to make people like you -Twelve ways to win people to your way of thinking -Nine ways to change people without arousing resentment And much more! Achieve your maximum potential—a must-read for the twenty-first century with more than 15 million copies sold!",
-    "image": "http://books.google.com/books/content?id=1rW-QpIAs8UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 3902,
-    "categories": [
-      "Self-Help"
-    ],
-    "pageCount": 320,
-    "isbn10": "145162171X",
-    "isbn13": "9781451621716",
-    "googleBooks": {
-      "id": "1rW-QpIAs8UC",
-      "preview": "http://books.google.com/books?id=1rW-QpIAs8UC&printsec=frontcover&dq=intitle:How+to+Win+Friends+and+Influence+People+by+Dale+Carnegie&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=1rW-QpIAs8UC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=1rW-QpIAs8UC"
-    },
-    "issueNumber": 19,
     "progressPercent": 0,
     "state": "completed",
     "startedAt": "2016-10-03T00:00:00.000Z",
