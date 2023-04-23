@@ -597,37 +597,6 @@
     "timeToCompleteFormatted": "1 week"
   },
   {
-    "title": "The Design of Everyday Things",
-    "authors": [
-      "Donald A. Norman"
-    ],
-    "publishedDate": "2013",
-    "description": "\"Even the smartest among us can feel inept as we fail to figure out which light switch or oven burner to turn on, or whether to push, pull, or slide a door. The fault, argues this ingenious-even liberating-book, lies not in ourselves, but in product design that ignores the needs of users and the principles of cognitive psychology. The problems range from ambiguous and hidden controls to arbitrary relationships between controls and functions, coupled with a lack of feedback or other assistance and unreasonable demands on memorization. The Design of Everyday Things shows that good, usable design is possible. The rules are simple: make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal: guide the user effortlessly to the right action on the right control at the right time. In this entertaining and insightful analysis, cognitive scientist Don Norman hails excellence of design as the most important key to regaining the competitive edge in influencing consumer behavior. Now fully expanded and updated, with a new introduction by the author, The Design of Everyday Things is a powerful primer on how-and why-some products satisfy customers while others only frustrate them. \".",
-    "image": "http://books.google.com/books/content?id=heCtnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 38,
-    "categories": [
-      "Design"
-    ],
-    "pageCount": 368,
-    "isbn10": "0262525674",
-    "isbn13": "9780262525671",
-    "googleBooks": {
-      "id": "heCtnQEACAAJ",
-      "preview": "http://books.google.com/books?id=heCtnQEACAAJ&dq=intitle:The+Design+of+Everyday+Things+by+Don+Norman&hl=&cd=2&source=gbs_api",
-      "info": "http://books.google.com/books?id=heCtnQEACAAJ&dq=intitle:The+Design+of+Everyday+Things+by+Don+Norman&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Design_of_Everyday_Things.html?hl=&id=heCtnQEACAAJ"
-    },
-    "issueNumber": 20,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2016-10-03T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 106876800000,
-    "timeToCompleteFormatted": "3 years"
-  },
-  {
     "title": "Think and Grow Rich",
     "authors": [
       "Arthur R. Pell",
