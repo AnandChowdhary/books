@@ -1,5 +1,34 @@
 [
   {
+    "title": "Doglapan",
+    "authors": [
+      "Ashneer Grover"
+    ],
+    "publisher": "Penguin Random House India Private Limited",
+    "publishedDate": "2022-12-16",
+    "description": "This is the unfettered story of Ashneer Grover-the favourite and misunderstood poster boy of Start-up India. Raw, gut-wrenching in its honesty and completely from the heart, this is storytelling at its finest. A young boy with a 'refugee' tag growing up in Delhi's Malviya Nagar outpaces his circumstances by becoming a rank-holder at the pinnacle of academic excellence in India-IIT Delhi. He goes on to do an MBA from the hallowed halls of IIM Ahmedabad, builds a career as an investment banker at Kotak Investment Banking and AmEx, and is pivotal in the making of two unicorns-Grofers, as CFO, and BharatPe, as co-founder. As a judge on the popular TV show Shark Tank India, Ashneer becomes a household name even as his life turns upside down. Controversy, media spotlight, garrulous social media chatter descend, making it difficult to distinguish fact from fiction.",
+    "image": "http://books.google.com/books/content?id=LimgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 185,
+    "isbn10": "9354928706",
+    "isbn13": "9789354928703",
+    "googleBooks": {
+      "id": "LimgEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=LimgEAAAQBAJ&pg=PT6&dq=intitle:Doglapan+by+Ashneer+Grover&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=LimgEAAAQBAJ&dq=intitle:Doglapan+by+Ashneer+Grover&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Doglapan.html?hl=&id=LimgEAAAQBAJ"
+    },
+    "issueNumber": 62,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-04-24T06:16:32.000Z"
+  },
+  {
     "title": "Sum",
     "authors": [
       "David Eagleman"
