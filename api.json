@@ -1,5 +1,34 @@
 [
   {
+    "title": "Why We Sleep",
+    "authors": [
+      "Matthew Walker"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2017-10-03",
+    "description": "\"Sleep is one of the most important but least understood aspects of our life, wellness, and longevity ... An explosion of scientific discoveries in the last twenty years has shed new light on this fundamental aspect of our lives. Now ... neuroscientist and sleep expert Matthew Walker gives us a new understanding of the vital importance of sleep and dreaming\"--Amazon.com.",
+    "image": "http://books.google.com/books/content?id=ZlU3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "categories": [
+      "Health & Fitness"
+    ],
+    "pageCount": 368,
+    "isbn10": "1501144316",
+    "isbn13": "9781501144318",
+    "googleBooks": {
+      "id": "ZlU3DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=ZlU3DwAAQBAJ&printsec=frontcover&dq=intitle:Why+We+Sleep+by+Matthew+Walker&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=ZlU3DwAAQBAJ&dq=intitle:Why+We+Sleep+by+Matthew+Walker&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Why_We_Sleep.html?hl=&id=ZlU3DwAAQBAJ"
+    },
+    "issueNumber": 63,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-10-13T20:37:46.000Z"
+  },
+  {
     "title": "Doglapan",
     "authors": [
       "Ashneer Grover"
