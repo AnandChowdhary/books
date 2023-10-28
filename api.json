@@ -1,5 +1,34 @@
 [
   {
+    "title": "Trillion Dollar Coach",
+    "authors": [
+      "Eric Schmidt",
+      "Jonathan Rosenberg",
+      "Alan Eagle"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2019-04-16",
+    "description": "#1 Wall Street Journal Bestseller New York Times Bestseller USA Today Bestseller The team behind How Google Works returns with management lessons from legendary coach and business executive, Bill Campbell, whose mentoring of some of our most successful modern entrepreneurs has helped create well over a trillion dollars in market value. Bill Campbell played an instrumental role in the growth of several prominent companies, such as Google, Apple, and Intuit, fostering deep relationships with Silicon Valley visionaries, including Steve Jobs, Larry Page, and Eric Schmidt. In addition, this business genius mentored dozens of other important leaders on both coasts, from entrepreneurs to venture capitalists to educators to football players, leaving behind a legacy of growing companies, successful people, respect, friendship, and love after his death in 2016. Leaders at Google for over a decade, Eric Schmidt, Jonathan Rosenberg, and Alan Eagle experienced firsthand how the man fondly known as Coach Bill built trusting relationships, fostered personal growth—even in those at the pinnacle of their careers—inspired courage, and identified and resolved simmering tensions that inevitably arise in fast-moving environments. To honor their mentor and inspire and teach future generations, they have codified his wisdom in this essential guide. Based on interviews with over eighty people who knew and loved Bill Campbell, Trillion Dollar Coach explains the Coach’s principles and illustrates them with stories from the many great people and companies with which he worked. The result is a blueprint for forward-thinking business leaders and managers that will help them create higher performing and faster moving cultures, teams, and companies.",
+    "image": "http://books.google.com/books/content?id=nmdzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 240,
+    "isbn10": "006283925X",
+    "isbn13": "9780062839251",
+    "googleBooks": {
+      "id": "nmdzDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=nmdzDwAAQBAJ&printsec=frontcover&dq=intitle:Trillion+Dollar+Coach+by+Bill+Campbell&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=nmdzDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=nmdzDwAAQBAJ"
+    },
+    "issueNumber": 64,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-10-28T17:13:46.000Z"
+  },
+  {
     "title": "Why We Sleep",
     "authors": [
       "Matthew Walker"
