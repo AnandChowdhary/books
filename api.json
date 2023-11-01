@@ -1,5 +1,32 @@
 [
   {
+    "title": "Learn Python in One Day and Learn it Well",
+    "authors": [
+      "Jamie Chan"
+    ],
+    "publisher": "Createspace Independent Publishing Platform",
+    "publishedDate": "2015",
+    "description": "Python, what Python? -- Getting ready for Python -- The world of variables and operators -- Data types in Python -- Making your program interactive -- Making choices and decisions -- Functions and modules -- Working with files -- Project : math and BODMAS",
+    "image": "http://books.google.com/books/content?id=v-IergEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Coding"
+    ],
+    "pageCount": 0,
+    "isbn10": "1506094384",
+    "isbn13": "9781506094380",
+    "googleBooks": {
+      "id": "v-IergEACAAJ",
+      "preview": "http://books.google.com/books?id=v-IergEACAAJ&dq=intitle:Learn+Python+in+One+Day+By+Jamie+Chan&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=v-IergEACAAJ&dq=intitle:Learn+Python+in+One+Day+By+Jamie+Chan&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Learn_Python_in_One_Day_and_Learn_it_Wel.html?hl=&id=v-IergEACAAJ"
+    },
+    "issueNumber": 65,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-11-01T15:47:07.000Z"
+  },
+  {
     "title": "Trillion Dollar Coach",
     "authors": [
       "Eric Schmidt",
