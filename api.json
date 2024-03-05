@@ -54,8 +54,11 @@
     },
     "issueNumber": 63,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-10-13T20:37:46.000Z"
+    "state": "completed",
+    "startedAt": "2023-10-13T20:37:46.000Z",
+    "completedAt": "2024-03-05T14:10:35.000Z",
+    "timeToComplete": 12418369000,
+    "timeToCompleteFormatted": "4 months"
   },
   {
     "title": "Doglapan",
