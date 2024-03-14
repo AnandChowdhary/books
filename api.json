@@ -281,8 +281,11 @@
     },
     "issueNumber": 51,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-09-22T18:47:24.000Z"
+    "state": "completed",
+    "startedAt": "2022-09-22T18:47:24.000Z",
+    "completedAt": "2024-03-14T15:57:01.000Z",
+    "timeToComplete": 46559377000,
+    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "The Psychology of Money",

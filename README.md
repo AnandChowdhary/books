@@ -18,18 +18,18 @@ Filter books by rating:
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (4)
+### ⌛ Currently reading (3)
 
 [![Book cover of Girls Just Wanna Have Funds](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DuYmAEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/56 "Girls Just Wanna Have Funds by Camilla Falkenberg, Emma Due Bitz, Anna-Sophie Hartvigsen")
-[![Book cover of Bad Feminist](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DGd6CvgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/51 "Bad Feminist by Roxane Gay")
 [![Book cover of The Checklist Manifesto](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dx3IcNujwHxcC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/42 "The Checklist Manifesto by Atul Gawande")
 [![Book cover of The Tipping Point](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DyBDBEGBIUmgC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/39 "The Tipping Point by Malcolm Gladwell")
 
-### ✅ Completed (32)
+### ✅ Completed (33)
 
 [![Book cover of Why We Sleep](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DZlU3DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/63 "Why We Sleep by Matthew Walker completed in 4 months on March 2024")
 [![Book cover of Doglapan](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DLimgEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/62 "Doglapan by Ashneer Grover completed in 5 months on October 2023")
 [![Book cover of Sum](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-cjWiI8DEywC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/59 "Sum by David Eagleman completed in 3 days on April 2023")
+[![Book cover of Bad Feminist](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DGd6CvgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/51 "Bad Feminist by Roxane Gay completed in 1 year on March 2024")
 [![Book cover of The Psychology of Money](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DTnrrDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/50 "The Psychology of Money by Morgan Housel completed in 3 months on December 2022")
 [![Book cover of Indistractable](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DGmmZDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/44 "Indistractable by Nir Eyal completed in 1 week on July 2022")
 [![Book cover of Blitzscaling](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DOyxyDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/43 "Blitzscaling by Reid Hoffman, Chris Yeh completed in 6 days on July 2022")
