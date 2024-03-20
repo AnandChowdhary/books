@@ -1,5 +1,35 @@
 [
   {
+    "title": "Rework",
+    "authors": [
+      "Jason Fried",
+      "David Heinemeier Hansson"
+    ],
+    "publisher": "Crown Currency",
+    "publishedDate": "2010-03-09",
+    "description": "Rework shows you a better, faster, easier way to succeed in business. Most business books give you the same old advice: Write a business plan, study the competition, seek investors, yadda yadda. If you're looking for a book like that, put this one back on the shelf. Read it and you'll know why plans are actually harmful, why you don't need outside investors, and why you're better off ignoring the competition. The truth is, you need less than you think. You don't need to be a workaholic. You don't need to staff up. You don't need to waste time on paperwork or meetings. You don't even need an office. Those are all just excuses. What you really need to do is stop talking and start working. This book shows you the way. You'll learn how to be more productive, how to get exposure without breaking the bank, and tons more counterintuitive ideas that will inspire and provoke you. With its straightforward language and easy-is-better approach, Rework is the perfect playbook for anyone who’s ever dreamed of doing it on their own. Hardcore entrepreneurs, small-business owners, people stuck in day jobs they hate, victims of \"downsizing,\" and artists who don’t want to starve anymore will all find valuable guidance in these pages.",
+    "image": "http://books.google.com/books/content?id=U77um_h_dgcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 20,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 290,
+    "isbn10": "0307463761",
+    "isbn13": "9780307463760",
+    "googleBooks": {
+      "id": "U77um_h_dgcC",
+      "preview": "http://books.google.com/books?id=U77um_h_dgcC&printsec=frontcover&dq=intitle:Rework+by+David+Heinemeier+Hansson+and+Jason+Fried&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=U77um_h_dgcC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=U77um_h_dgcC"
+    },
+    "issueNumber": 66,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-03-20T13:54:03.000Z"
+  },
+  {
     "title": "Trillion Dollar Coach",
     "authors": [
       "Eric Schmidt",
