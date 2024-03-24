@@ -1,5 +1,35 @@
 [
   {
+    "title": "Never Split the Difference",
+    "authors": [
+      "Chris Voss",
+      "Tahl Raz"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2016-05-17",
+    "description": "A former international hostage negotiator for the FBI offers a new, field-tested approach to high-stakes negotiations—whether in the boardroom or at home. After a stint policing the rough streets of Kansas City, Missouri, Chris Voss joined the FBI, where his career as a hostage negotiator brought him face-to-face with a range of criminals, including bank robbers and terrorists. Reaching the pinnacle of his profession, he became the FBI’s lead international kidnapping negotiator. Never Split the Difference takes you inside the world of high-stakes negotiations and into Voss’s head, revealing the skills that helped him and his colleagues succeed where it mattered most: saving lives. In this practical guide, he shares the nine effective principles—counterintuitive tactics and strategies—you too can use to become more persuasive in both your professional and personal life. Life is a series of negotiations you should be prepared for: buying a car, negotiating a salary, buying a home, renegotiating rent, deliberating with your partner. Taking emotional intelligence and intuition to the next level, Never Split the Difference gives you the competitive edge in any discussion.",
+    "image": "http://books.google.com/books/content?id=RmdqCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 203,
+    "isbn10": "0062407813",
+    "isbn13": "9780062407818",
+    "googleBooks": {
+      "id": "RmdqCgAAQBAJ",
+      "preview": "http://books.google.com/books?id=RmdqCgAAQBAJ&printsec=frontcover&dq=intitle:Never+Split+the+Difference+by+Christopher+Voss+and+Tahl+Raz&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=RmdqCgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=RmdqCgAAQBAJ"
+    },
+    "issueNumber": 67,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-03-24T15:28:15.000Z"
+  },
+  {
     "title": "Rework",
     "authors": [
       "Jason Fried",
