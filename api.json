@@ -26,8 +26,11 @@
     },
     "issueNumber": 66,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-03-20T13:54:03.000Z"
+    "state": "completed",
+    "startedAt": "2024-03-20T13:54:03.000Z",
+    "completedAt": "2024-03-24T15:26:29.000Z",
+    "timeToComplete": 351146000,
+    "timeToCompleteFormatted": "4 days"
   },
   {
     "title": "Trillion Dollar Coach",
