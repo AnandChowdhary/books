@@ -26,8 +26,11 @@
     },
     "issueNumber": 67,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-03-24T15:28:15.000Z"
+    "state": "completed",
+    "startedAt": "2024-03-24T15:28:15.000Z",
+    "completedAt": "2024-03-27T13:44:38.000Z",
+    "timeToComplete": 252983000,
+    "timeToCompleteFormatted": "2 days"
   },
   {
     "title": "Rework",
