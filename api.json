@@ -294,8 +294,11 @@
     },
     "issueNumber": 53,
     "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-10-03T14:15:35.000Z"
+    "state": "completed",
+    "startedAt": "2022-10-03T14:15:35.000Z",
+    "completedAt": "2024-05-02T14:28:34.000Z",
+    "timeToComplete": 49853579000,
+    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "Open Source for Business",
