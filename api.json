@@ -1,5 +1,30 @@
 [
   {
+    "title": "Why the Dutch are Different",
+    "authors": [
+      "Ben Coates"
+    ],
+    "publishedDate": "2015",
+    "description": "In the first book to consider the hidden history of the Netherlands from a modern perspective, author Ben Coates explores the length and breadth of his adopted homeland and discovers why one of the world's smallest countries is so fascinating and significant. It is a self-made country, the Dutch national character shaped by the ongoing battle to keep the water out, its love of dairy and beer, its attitude towards nature, and its famous tolerance. Ben Coates investigates what make the Dutch, Dutch, why the Netherlands is much more than Holland, and why the color orange is so important. Along the way he reveals why they are the world's tallest people, and manage to be richer than almost everyone else despite working far less. He also discovers a country which is changing fast, with the Dutch now questioning many of the liberal policies which made their nation famous. A personal portrait of a fascinating people, a sideways history and an entertaining travelogue, Why The Dutch are Different is the story of an Englishman who went Dutch, and loved it. Ben Coates has worked at various times as a political advisor, corporate speechwriter, lobbyist and aid worker. Ben has written articles for numerous publications including the Guardian, Financial Times, and Huffington Post. He currently lives in Rotterdam with his Dutch wife and works as an advisor for The One Acre Fund, an international charity.",
+    "image": "http://books.google.com/books/content?id=evWyAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "BIOGRAPHY & AUTOBIOGRAPHY"
+    ],
+    "isbn10": "1473653231",
+    "isbn13": "9781473653238",
+    "googleBooks": {
+      "id": "evWyAQAACAAJ",
+      "preview": "http://books.google.com/books?id=evWyAQAACAAJ&dq=intitle:Why+the+Dutch+Are+Different+by+Ben+Coates&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=evWyAQAACAAJ&dq=intitle:Why+the+Dutch+Are+Different+by+Ben+Coates&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Why_the_Dutch_are_Different.html?hl=&id=evWyAQAACAAJ"
+    },
+    "issueNumber": 68,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2024-08-03T11:02:53.000Z"
+  },
+  {
     "title": "Never Split the Difference",
     "authors": [
       "Chris Voss",
