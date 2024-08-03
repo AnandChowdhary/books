@@ -1,5 +1,30 @@
 [
   {
+    "title": "Being Human",
+    "authors": [
+      "Andrew Bowman"
+    ],
+    "publishedDate": "1970",
+    "image": "http://books.google.com/books/content?id=4j4RAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "categories": [
+      "California"
+    ],
+    "pageCount": 306,
+    "googleBooks": {
+      "id": "4j4RAQAAIAAJ",
+      "preview": "http://books.google.com/books?id=4j4RAQAAIAAJ&q=intitle:Being+Human+by+Lewis+Dartmell&dq=intitle:Being+Human+by+Lewis+Dartmell&hl=&cd=8&source=gbs_api",
+      "info": "http://books.google.com/books?id=4j4RAQAAIAAJ&dq=intitle:Being+Human+by+Lewis+Dartmell&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Being_Human.html?hl=&id=4j4RAQAAIAAJ"
+    },
+    "issueNumber": 71,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-08-03T11:08:38.000Z"
+  },
+  {
     "title": "Ultra-Processed People",
     "authors": [
       "Chris van Tulleken"

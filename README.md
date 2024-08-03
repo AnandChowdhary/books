@@ -18,8 +18,9 @@ Filter books by rating:
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (3)
+### ⌛ Currently reading (4)
 
+[![Book cover of Being Human](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D4j4RAQAAIAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/71 "Being Human by Andrew Bowman")
 [![Book cover of Girls Just Wanna Have Funds](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DuYmAEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/56 "Girls Just Wanna Have Funds by Camilla Falkenberg, Emma Due Bitz, Anna-Sophie Hartvigsen")
 [![Book cover of The Checklist Manifesto](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dx3IcNujwHxcC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/42 "The Checklist Manifesto by Atul Gawande")
 [![Book cover of The Tipping Point](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DyBDBEGBIUmgC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/39 "The Tipping Point by Malcolm Gladwell")
