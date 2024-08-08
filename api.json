@@ -1,28 +1,32 @@
 [
   {
-    "title": "Being Human",
+    "title": "Sapiens",
     "authors": [
-      "Andrew Bowman"
+      "Yuval Noah Harari"
     ],
-    "publishedDate": "1970",
-    "image": "http://books.google.com/books/content?id=4j4RAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "publisher": "Harper Collins",
+    "publishedDate": "2015-02-10",
+    "description": "New York Times Readers’ Pick: Top 100 Books of the 21st Century New York Times Bestseller A Summer Reading Pick for President Barack Obama, Bill Gates, and Mark Zuckerberg From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.” One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us? Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens integrates history and science to reconsider accepted narratives, connect past developments with contemporary concerns, and examine specific events within the context of larger ideas. Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become? Featuring 27 photographs, 6 maps, and 25 illustrations/diagrams, this provocative and insightful work is sure to spark debate and is essential reading for aficionados of Jared Diamond, James Gleick, Matt Ridley, Robert Wright, and Sharon Moalem.",
+    "image": "http://books.google.com/books/content?id=FmyBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 1,
+    "averageRating": 3.5,
+    "ratingsCount": 14,
     "categories": [
-      "California"
+      "Science"
     ],
-    "pageCount": 306,
+    "pageCount": 403,
+    "isbn10": "0062316109",
+    "isbn13": "9780062316103",
     "googleBooks": {
-      "id": "4j4RAQAAIAAJ",
-      "preview": "http://books.google.com/books?id=4j4RAQAAIAAJ&q=intitle:Being+Human+by+Lewis+Dartmell&dq=intitle:Being+Human+by+Lewis+Dartmell&hl=&cd=8&source=gbs_api",
-      "info": "http://books.google.com/books?id=4j4RAQAAIAAJ&dq=intitle:Being+Human+by+Lewis+Dartmell&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Being_Human.html?hl=&id=4j4RAQAAIAAJ"
+      "id": "FmyBAwAAQBAJ",
+      "preview": "http://books.google.com/books?id=FmyBAwAAQBAJ&printsec=frontcover&dq=intitle:Being+Human:+How+Our+Biology+Shaped+World+History+by+Lewis+Dartnell&hl=&cd=4&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=FmyBAwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=FmyBAwAAQBAJ"
     },
-    "issueNumber": 71,
+    "issueNumber": 72,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-08-03T11:08:38.000Z"
+    "state": "want-to-read",
+    "startedAt": "2024-08-08T13:53:17.000Z"
   },
   {
     "title": "Ultra-Processed People",
