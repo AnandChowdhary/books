@@ -1,5 +1,32 @@
 [
   {
+    "title": "Love Triangle",
+    "authors": [
+      "Matt Parker"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2024-06-20",
+    "description": "Explore the life-changing magic of trigonometry with Matt Parker, stand-up mathematician and No. 1 bestselling author of Humble Pi Why can no two people ever see the same rainbow? What happens when you pull a pop song apart into pure sine waves and play it back on a piano? Why does the wake behind a duck always form an angle of exactly 39 degrees? And what did mathematicians have to do with the great pig stampede of 2012? The answer to each of these questions can be found in the triangle. In Love Triangle, stand-up comedian, ex-maths teacher and Sunday Times number one bestselling author Matt Parker is on a mission to prove why we should all show a lot more love for triangles, along with the useful trigonometry and geometry they enable. To make his point, he uses triangles to create his own digital avatar, survive a harrowing motorcycle ride, cut a sandwich into three equal parts, and measure tall buildings while wearing silly shoes. But soon these hare-brained experiments begin to reveal a genuinely important truth: triangles are the hidden pattern beneath the surface of the contemporary world, used in everything from GPS to CGI via Spotify streaming, the play button and your best mate’s triangle tattoo. Join Matt Parker as he demonstrates why there’s more to triangles than Pythagoras and SOHCAHTOA. Triangles are everything and everything is triangles.",
+    "image": "http://books.google.com/books/content?id=6j6lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Mathematics"
+    ],
+    "pageCount": 213,
+    "isbn10": "0141996196",
+    "isbn13": "9780141996196",
+    "googleBooks": {
+      "id": "6j6lEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=6j6lEAAAQBAJ&dq=intitle:Love+Triangle+by+Matt+Parker&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=6j6lEAAAQBAJ&dq=intitle:Love+Triangle+by+Matt+Parker&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Love_Triangle.html?hl=&id=6j6lEAAAQBAJ"
+    },
+    "issueNumber": 74,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2024-08-20T07:12:57.000Z"
+  },
+  {
     "title": "Feel-Good Productivity",
     "authors": [
       "Ali Abdaal"
