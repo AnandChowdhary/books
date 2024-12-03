@@ -1,5 +1,32 @@
 [
   {
+    "title": "Nexus",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2024-09-10",
+    "description": "#1 NATIONAL BESTSELLER • NEW YORK TIMES BESTSELLER • From the author of Sapiens comes the groundbreaking story of how information networks have made, and unmade, our world. “Striking original . . . A historian whose arguments operate on the scale of millennia has managed to capture the zeitgeist perfectly.”—The Economist “This deeply important book comes at a critical time as we all think through the implications of AI and automated content production. . . . Masterful and provocative.”—Mustafa Suleyman, author of The Coming Wave For the last 100,000 years, we Sapiens have accumulated enormous power. But despite all our discoveries, inventions, and conquests, we now find ourselves in an existential crisis. The world is on the verge of ecological collapse. Misinformation abounds. And we are rushing headlong into the age of AI—a new information network that threatens to annihilate us. For all that we have accomplished, why are we so self-destructive? Nexus looks through the long lens of human history to consider how the flow of information has shaped us, and our world. Taking us from the Stone Age, through the canonization of the Bible, early modern witch-hunts, Stalinism, Nazism, and the resurgence of populism today, Yuval Noah Harari asks us to consider the complex relationship between information and truth, bureaucracy and mythology, wisdom and power. He explores how different societies and political systems throughout history have wielded information to achieve their goals, for good and ill. And he addresses the urgent choices we face as non-human intelligence threatens our very existence. Information is not the raw material of truth; neither is it a mere weapon. Nexus explores the hopeful middle ground between these extremes, and in doing so, rediscovers our shared humanity.",
+    "image": "http://books.google.com/books/content?id=PYvsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "History"
+    ],
+    "pageCount": 529,
+    "isbn10": "0593734246",
+    "isbn13": "9780593734247",
+    "googleBooks": {
+      "id": "PYvsEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=PYvsEAAAQBAJ&printsec=frontcover&dq=intitle:Nexus+by+Yuval+Noah+Harari&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=PYvsEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=PYvsEAAAQBAJ"
+    },
+    "issueNumber": 75,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-12-03T12:48:25.000Z"
+  },
+  {
     "title": "Love Triangle",
     "authors": [
       "Matt Parker"
