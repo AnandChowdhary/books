@@ -23,8 +23,11 @@
     },
     "issueNumber": 75,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-12-03T12:48:25.000Z"
+    "state": "completed",
+    "startedAt": "2024-12-03T12:48:25.000Z",
+    "completedAt": "2025-01-10T16:12:03.000Z",
+    "timeToComplete": 3295418000,
+    "timeToCompleteFormatted": "1 month"
   },
   {
     "title": "Love Triangle",
