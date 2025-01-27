@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Anthropocene Reviewed",
+    "authors": [
+      "John Green"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2021-05-18",
+    "description": "“Masterful. The Anthropocene Reviewed is a beautiful, timely book about the human condition—and a timeless reminder to pay attention to your attention.” —Adam Grant, #1 bestselling author of Think Again and host of the podcast Re:Thinking Instant #1 bestseller! A deeply moving collection of personal essays from John Green, the author of The Fault in Our Stars and Turtles All the Way Down. “Gloriously personal and life-affirming. The perfect book for right now.” —People “Essential to the human conversation.” —Library Journal, starred review The Anthropocene is the current geologic age, in which humans have profoundly reshaped the planet and its biodiversity. In this remarkable symphony of essays, bestselling author John Green reviews different facets of the human-centered planet on a five-star scale—from the QWERTY keyboard and sunsets to Canada geese and Penguins of Madagascar. Funny, complex, and rich with detail, the reviews chart the contradictions of contemporary humanity. John Green’s gift for storytelling shines throughout this masterful collection. The Anthropocene Reviewed is an open-hearted exploration of the paths we forge and an unironic celebration of falling in love with the world.",
+    "image": "http://books.google.com/books/content?id=ZPD4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Literary Collections"
+    ],
+    "pageCount": 305,
+    "isbn10": "0525555226",
+    "isbn13": "9780525555223",
+    "googleBooks": {
+      "id": "ZPD4DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=ZPD4DwAAQBAJ&printsec=frontcover&dq=intitle:The+Anthropocene+Reviewed+by+John+Green&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=ZPD4DwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=ZPD4DwAAQBAJ"
+    },
+    "issueNumber": 76,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-01-27T10:41:54.000Z"
+  },
+  {
     "title": "Nexus",
     "authors": [
       "Yuval Noah Harari"
