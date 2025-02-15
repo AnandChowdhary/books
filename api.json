@@ -1,5 +1,33 @@
 [
   {
+    "title": "Superintelligence",
+    "authors": [
+      "Nick Bostrom"
+    ],
+    "publishedDate": "2014",
+    "description": "This profoundly ambitious and original book picks its way carefully through a vast tract of forbiddingly difficult intellectual terrain.",
+    "image": "http://books.google.com/books/content?id=7_H8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 353,
+    "isbn10": "0199678111",
+    "isbn13": "9780199678112",
+    "googleBooks": {
+      "id": "7_H8AwAAQBAJ",
+      "preview": "http://books.google.com/books?id=7_H8AwAAQBAJ&printsec=frontcover&dq=intitle:Superintelligence:+Paths,+Dangers,+Strategies+by+Nick+Bostrom&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=7_H8AwAAQBAJ&dq=intitle:Superintelligence:+Paths,+Dangers,+Strategies+by+Nick+Bostrom&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Superintelligence.html?hl=&id=7_H8AwAAQBAJ"
+    },
+    "issueNumber": 77,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-02-15T19:36:15.000Z"
+  },
+  {
     "title": "The Anthropocene Reviewed",
     "authors": [
       "John Green"
@@ -641,38 +669,6 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-08-22T08:10:57.000Z"
-  },
-  {
-    "title": "The Cold Start Problem",
-    "authors": [
-      "Andrew Chen"
-    ],
-    "publisher": "Harper Business",
-    "publishedDate": "2021-12-07",
-    "description": "A venture capitalist draws on expertise developed at the premier venture capital firm, Andreessen Horowitz, and as an executive at Uber to address how tech's most successful products have solved the dreaded \"cold start problem\"--by leveraging networks effects to launch and scale towards billions of users. Although software has become easier to build, launching and scaling new products and services remains difficult. Startups face daunting challenges entering the technology ecosystem, including stiff competition, copycats, and ineffective marketing channels. Teams launching new products must consider the advantages of \"the network effect,\" where a product or service's value increases as more users engage with it. Apple, Google, Microsoft, and other tech giants utilize network effects, and most tech products incorporate them, whether they're messaging apps, workplace collaboration tools, or marketplaces. Network effects provide a path for fledgling products to break through, attracting new users through viral growth and word of mouth. Yet most entrepreneurs lack the vocabulary and context to describe them--much less understand the fundamental principles that drive the effect. What exactly are network effects? How do teams create and build them into their products? How do products compete in a market where every player has them? Andrew Chen draws on his experience and on interviews with the CEOs and founding teams of LinkedIn, Twitch, Zoom, Dropbox, Tinder, Uber, Airbnb, Pinterest -- to provide unique insights in answering these questions. Chen also provides practical frameworks and principles that can be applied across products and industries. The Cold Start Problem reveals what makes winning networks successful, why some startups fail to successfully scale, and most crucially, why products that create and compete using the network effect are vitally important today.",
-    "image": "http://books.google.com/books/content?id=4ezYzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 5,
-    "ratingsCount": 1,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 336,
-    "isbn10": "0062969749",
-    "isbn13": "9780062969743",
-    "googleBooks": {
-      "id": "4ezYzQEACAAJ",
-      "preview": "http://books.google.com/books?id=4ezYzQEACAAJ&dq=intitle:The+Cold+Start+Problem+by+Andrew+Chen&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=4ezYzQEACAAJ&dq=intitle:The+Cold+Start+Problem+by+Andrew+Chen&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Cold_Start_Problem.html?hl=&id=4ezYzQEACAAJ"
-    },
-    "issueNumber": 38,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-01-13T05:54:04.000Z",
-    "completedAt": "2022-08-22T04:15:30.000Z",
-    "timeToComplete": 19088486000,
-    "timeToCompleteFormatted": "7 months"
   },
   {
     "title": "Indistractable",
