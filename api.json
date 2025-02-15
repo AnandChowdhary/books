@@ -25,8 +25,11 @@
     },
     "issueNumber": 76,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-01-27T10:41:54.000Z"
+    "state": "completed",
+    "startedAt": "2025-01-27T10:41:54.000Z",
+    "completedAt": "2025-02-15T19:34:56.000Z",
+    "timeToComplete": 1673582000,
+    "timeToCompleteFormatted": "2 weeks"
   },
   {
     "title": "Nexus",
