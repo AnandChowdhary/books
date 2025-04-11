@@ -1,5 +1,32 @@
 [
   {
+    "title": "Everything Is Tuberculosis (Signed Edition)",
+    "authors": [
+      "John Green"
+    ],
+    "publisher": "Penguin Group",
+    "publishedDate": "2025-03-18",
+    "description": "John Green, the #1 bestselling author of The Anthropocene Reviewed and a passionate advocate for global healthcare reform, tells a deeply human story illuminating the fight against the world’s deadliest infectious disease. Signed edition Tuberculosis has been entwined with hu­manity for millennia. Once romanticized as a malady of poets, today tuberculosis is seen as a disease of poverty that walks the trails of injustice and inequity we blazed for it. In 2019, author John Green met Henry Reider, a young tuberculosis patient at Lakka Government Hospital in Sierra Leone. John be­came fast friends with Henry, a boy with spindly legs and a big, goofy smile. In the years since that first visit to Lakka, Green has become a vocal advocate for increased access to treatment and wider awareness of the healthcare inequi­ties that allow this curable, preventable infec­tious disease to also be the deadliest, killing over a million people every year. In Everything Is Tuberculosis, John tells Henry’s story, woven through with the scientific and social histories of how tuberculosis has shaped our world—and how our choices will shape the future of tuberculosis.",
+    "image": "http://books.google.com/books/content?id=VJIrEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Social Science"
+    ],
+    "pageCount": 0,
+    "isbn10": "0525426051",
+    "isbn13": "9780525426059",
+    "googleBooks": {
+      "id": "VJIrEQAAQBAJ",
+      "preview": "http://books.google.com/books?id=VJIrEQAAQBAJ&dq=intitle:Everything+is+Tuberculosis+by+John+Green&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=VJIrEQAAQBAJ&dq=intitle:Everything+is+Tuberculosis+by+John+Green&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Everything_Is_Tuberculosis_Signed_Editio.html?hl=&id=VJIrEQAAQBAJ"
+    },
+    "issueNumber": 78,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-04-11T08:46:28.000Z"
+  },
+  {
     "title": "Superintelligence",
     "authors": [
       "Nick Bostrom"
