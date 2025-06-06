@@ -23,8 +23,11 @@
     },
     "issueNumber": 78,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-04-11T08:46:28.000Z"
+    "state": "completed",
+    "startedAt": "2025-04-11T08:46:28.000Z",
+    "completedAt": "2025-06-06T10:17:30.000Z",
+    "timeToComplete": 4843862000,
+    "timeToCompleteFormatted": "1 month"
   },
   {
     "title": "Superintelligence",
