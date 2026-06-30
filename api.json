@@ -1,5 +1,36 @@
 [
   {
+    "title": "Superintelligence",
+    "authors": [
+      "Nick Bostrom"
+    ],
+    "publishedDate": "2014",
+    "description": "This profoundly ambitious and original book picks its way carefully through a vast tract of forbiddingly difficult intellectual terrain.",
+    "image": "http://books.google.com/books/content?id=7_H8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 353,
+    "isbn10": "0199678111",
+    "isbn13": "9780199678112",
+    "googleBooks": {
+      "id": "7_H8AwAAQBAJ",
+      "preview": "http://books.google.com/books?id=7_H8AwAAQBAJ&printsec=frontcover&dq=intitle:Superintelligence:+Paths,+Dangers,+Strategies+by+Nick+Bostrom&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=7_H8AwAAQBAJ&dq=intitle:Superintelligence:+Paths,+Dangers,+Strategies+by+Nick+Bostrom&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Superintelligence.html?hl=&id=7_H8AwAAQBAJ"
+    },
+    "issueNumber": 77,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-02-15T19:36:15.000Z",
+    "completedAt": "2026-06-30T20:25:32.000Z",
+    "timeToComplete": 43202957000,
+    "timeToCompleteFormatted": "1 year"
+  },
+  {
     "title": "Everything Is Tuberculosis (Signed Edition)",
     "authors": [
       "John Green"
@@ -28,34 +59,6 @@
     "completedAt": "2025-06-06T10:17:30.000Z",
     "timeToComplete": 4843862000,
     "timeToCompleteFormatted": "1 month"
-  },
-  {
-    "title": "Superintelligence",
-    "authors": [
-      "Nick Bostrom"
-    ],
-    "publishedDate": "2014",
-    "description": "This profoundly ambitious and original book picks its way carefully through a vast tract of forbiddingly difficult intellectual terrain.",
-    "image": "http://books.google.com/books/content?id=7_H8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 4,
-    "categories": [
-      "Computers"
-    ],
-    "pageCount": 353,
-    "isbn10": "0199678111",
-    "isbn13": "9780199678112",
-    "googleBooks": {
-      "id": "7_H8AwAAQBAJ",
-      "preview": "http://books.google.com/books?id=7_H8AwAAQBAJ&printsec=frontcover&dq=intitle:Superintelligence:+Paths,+Dangers,+Strategies+by+Nick+Bostrom&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=7_H8AwAAQBAJ&dq=intitle:Superintelligence:+Paths,+Dangers,+Strategies+by+Nick+Bostrom&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Superintelligence.html?hl=&id=7_H8AwAAQBAJ"
-    },
-    "issueNumber": 77,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-02-15T19:36:15.000Z"
   },
   {
     "title": "The Anthropocene Reviewed",
